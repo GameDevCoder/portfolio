@@ -13,15 +13,25 @@ Working as a Technical Artist on Project Awakening at Cygames in Shibuya, Tokyo.
 
 ## Tool Development
 
-##### StudioLibrary
+##### [StudioLibrary](https://www.studiolibrary.com/){: target="_blank"}
 
-Created a customized version of [StudioLibrary](https://www.studiolibrary.com/){: target="_blank"} for the character animators.
+I created a customized version of StudioLibrary for the character animators.
 
 The artists had been using an internally created pose tool but wanted to switch to StudioLibrary.&nbsp; I created an importer and converter tool to change all the old poses to StudioLibrary poses. This let the artists seamlessly change tools and continue their work without interruption.
 
 Support was added for Perforce to allow the artists to checkout and submit their poses to the repo directly from Maya. Perforce icons were added to all pose thumbnail previews to let artists know the current status of the files.
 
-and creating poses from characters at locations other than the origin (Relative transform and rotation)
+Poses in StudioLibrary are created at the origin, but sometimes artists need to apply poses to characters in other locations. Support was added to make it possible to apply poses to characters in those cases.
+
+##### [Pyblish](https://pyblish.com/){: target="_blank"}
+
+The 3D art team had naming convention rules for the objects that make up the 3D game models. To help the artists check, validate and fix object naming, I implemented a custom version of Pyblish, a DCC validation and publishing tool. A custom repair tool created using Pyside2 was integrated into Pyblish.&nbsp; The tool allowed for the creation and editing of naming rules to be applied. Direct editing of object naming and object hierarchy was also possible.
+
+&nbsp;
+
+Checking and validating the names of objects in a complex 3d
+
+&nbsp;
 
 ## Features
 
