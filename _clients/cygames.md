@@ -39,11 +39,11 @@ The 3D art team had naming convention rules for the objects that make up the 3D 
 
 Plugins were created for collecting and testing the various model object parts like :
 
-* Main Model,
-* LOD Models,
-* Collision Models,
-* Rig Joints,
-* Materials and Textures etc..
+* Main Model
+* LOD Models
+* Collision Models
+* Rig Joints
+* Materials and Textures
 
 The objects were checked for proper naming and for proper object parenting (hierarchy check). Invalid objects showed up in red in the Pyblish validation result window.
 
@@ -67,15 +67,15 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 ![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
 
-## Anubis Zone of the Enders M∀RS
+## [Anubis Zone of the Enders M∀RS](https://www.konami.com/games/zoe_mars/as/en/)
 
-(Developed by Konami in conjuction with Cygames)
+(Developed by Konami in conjunction with Cygames)
 
 ### Localization
 
 Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.
 
-My tasks included proof reading and editing the games english text, reviewing in-game spoken English dialog and written English text displayed in the game's UI.
+My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game's UI.
 
 I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.
 
@@ -89,7 +89,7 @@ I also helped enter localized game text for the French, German, Italian and Span
 
 ### Maya Log Aggregator
 
-I Implemented a logging system for Maya that can collect logs from multiple running instances of Maya (2015, 2016, 2017)and aggregate them into a single comprehensive log file. I used the Python version of [ZMQ](https://zeromq.org) ([PyZMQ](https://zeromq.org/languages/python/)) recompiled for Maya to accomplish the task.
+I Implemented a logging system for Maya that can collect logs from multiple running instances of Maya (2015, 2016, 2017) and aggregate them into a single comprehensive log file. I used the Python version of [ZMQ](https://zeromq.org) ([PyZMQ](https://zeromq.org/languages/python/)) recompiled for Maya to accomplish the task.
 
 ### Tool Logging Server
 
@@ -120,78 +120,10 @@ I conducted information research for improving quality of code and developer doc
 
 &nbsp;
 
-### Graphics Research and Development
+### Research and Development
+
+#### Graphics
 
 &nbsp;Investigated implementing Ambient Occlusion rendering techniques for an unspecified Unity mobile title.
 
 ## &nbsp;
-
-## Features
-
-* Created a customized version of StudioLib
-* Pre-styled components
-* Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* SEO tags
-* Google Analytics
-* [Donorbox](https://donorbox.org/)
-* [MailChimp](https://mailchimp.com/)
-
-## Setup
-
-1. Add your site details in `_config.yml`.
-2. Add your Google Analytics to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
-
-## Develop
-
-Cause was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
-
-Install the dependencies with [Bundler](https://bundler.io/)\:
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Cause is already optimised for updating pages, company details and footer elements in CloudCannon.
-
-## SEO Tag
-
-This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) plugin. You should at least set a title in front matter on each page. Have a look at the [project page](https://github.com/jekyll/jekyll-seo-tag) for more options.
-
-## Google Analytics
-
-[Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:
-
-1. Add your Google Analytics key to `_config.yml`
-2. Run your site in production `JEKYLL_ENV=production`. This is the default in CloudCannon and GitHub Pages.
-
-## Donorbox
-
-[Donorbox](https://donorbox.org/) is a third party embeddable donation form for websites. To install:
-
-1. Set up a campaign on Donorbox
-2. Copy the embed code from the Dashboard screen
-3. Paste it into `donation_embed` in `_config.yml`
-
-## Mailchimp
-
-[Mailchimp](https://mailchimp.com/) is a third party embeddable newsletter for websites. To install:
-
-1. Set up a campaign on Mailchimp
-2. Find the embed code for the sign up form
-3. Copy the `<form>`'s action url
-4. Paste it into `newsletter_action` in `_config.yml`
-
-### Company details
-
-* Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
