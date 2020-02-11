@@ -1,7 +1,7 @@
 ---
 name: Cygames
 subtitle: Project Awakening
-external_url: 'https://projectawakening.com/en/'
+external_url: 'https://www.cygames.co.jp/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
 
@@ -11,9 +11,9 @@ image_path: /uploads/cygames-project-awakening-thumb.png
 
 Currently working as a Technical Artist on **Project Awakening - Arise** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
 
-## ![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}
+## [![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}](https://projectawakening.com/en/)
 
-## Project Awakening
+## [Project Awakening](https://projectawakening.com/en/)
 
 #### Tool Development
 
@@ -76,6 +76,41 @@ My tasks included proof reading and editing the games english text, reviewing in
 I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.
 
 &nbsp;
+
+![](/uploads/cygames-logo-technical.jpg){: width="600" height="336"}
+
+## Internal Development
+
+#### Maya Log Aggregator
+
+I Implemented a logging system for Maya that can collect logs from multiple running instances of Maya (2015, 2016, 2017)and aggregate them into a single comprehensive log file. I used PyZMQ (Python version of ZMQ), recompiled for Maya to accomplish the task.
+
+#### Tool Logging Server
+
+Created a python based logging server for receiving logging information from internal tools (Maya, Photoshop etc). The logs were collected for metrics to determine the usage rates and failure rates for our in-house tools. The metrics were visually displayed as various graphs and charts.
+
+The server was initially put together with Flask AppBuilder (Python Server), CherryPY (as the WSGI server), REST API, JINJA2 templates,SQL Alchemy and a Postgres Database.
+
+The tool logging server was later reimplemented with Kibana and FluentD. I also included Slack integration via webhooks so that we could have logs with critical errors sent to our developer Slack channel.
+
+#### Improvement of Development Operations
+
+Researched information for multiple areas of development including:
+
+* Coding Styles and Automated Implementations
+  * Unibeautify
+* Source Code Documentation Tools
+  * Javascript : [Sphinx-JS](https://github.com/mozilla/sphinx-js), [TypeDoc](https://typedoc.org/)
+  * Python: [Sphinx](https://www.sphinx-doc.org/en/master/)
+  * C/C++: [Doxygen](https://www.doxygen.nl/)
+
+\+ Source Code Documentation Integrations (Sphinx For Confluence, Doxygen For Confluence)+ Source Code Analysis Tools (Lint Tools, SonarQube, Coverity)
+
+#### Graphics Research and Development
+
+&nbsp;- Ambient Occlusion Rendering Techniques For Mobile -Investigated rendering techniques for implementing Ambient Occlusion for an unspecified mobile title.
+
+## &nbsp;
 
 ## Features
 
