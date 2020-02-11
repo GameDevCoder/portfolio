@@ -59,11 +59,17 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 ![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
 
-## Zone of the Enders M∀RS (PS4 Remaster)
+## Anubis Zone of the Enders M∀RS
+
+(Developed in conjuction with Konami)
 
 ### Localization
 
-&nbsp;
+Some of my time at Cygames was spent working on localization efforts for the PS4 remaster of Zone of the Enders - M∀RS.
+
+My tasks included proof reading and editing the games english text, reviewing in-game spoken English dialog and written English text displayed in the game's UI.
+
+I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.
 
 &nbsp;
 
