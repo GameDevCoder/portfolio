@@ -15,9 +15,9 @@ Currently working as a Technical Artist on **Project Awakening - Arise** at [Cyg
 
 ## [Project Awakening](https://projectawakening.com/en/)
 
-#### Tool Development
+### Tool Development
 
-##### [StudioLibrary](https://www.studiolibrary.com/){: target="_blank"}
+#### [StudioLibrary](https://www.studiolibrary.com/){: target="_blank"}
 
 StudioLibrary is a free tool for managing poses and animation in Autodesk Maya.
 
@@ -31,7 +31,7 @@ Poses in StudioLibrary are created at the origin. But sometimes artists need to 
 
 ##### &nbsp;
 
-##### [Pyblish](https://pyblish.com/){: target="_blank"}
+#### [Pyblish](https://pyblish.com/){: target="_blank"}
 
 Pyblish is a free tool for checking and verifying that art assets comply with the established project guidelines for production. It can be used in various DCC software including Autodesk Maya.
 
@@ -47,17 +47,21 @@ Plugins were created for collecting and testing the various model object parts l
 
 The objects were checked for proper naming and for proper object parenting (hierarchy check). Invalid objects showed up in red in the Pyblish validation result window.
 
-In addition to the above plugins, I also added a name and hierarchy editing tool created with PyQt / Pyside2 and Yaml.&nbsp; It included an object rule editor and object rule presets for each of the different model parts mentioned above. This editing tool could be opened directly from the Pyblish validation result window with a right click.
+In addition to the above plugins, I also added a name and hierarchy editing tool created with [Qt for Python](https://doc.qt.io/qtforpython/) (Pyside2) and [Yaml](https://yaml.org/).&nbsp; It included an object rule editor and object rule presets for each of the different model parts mentioned above. This editing tool could be opened directly from the Pyblish validation result window with a right click.
 
 Any objects that had failed validation either due to incorrect naming or incorrect object parenting would be displayed in the tool.
 
 Artists could use the tool to rapidly edit object names and hierarchy directly, or select an object rule preset and quickly apply a fix automatically.
 
-#### [Unreal Engine](https://www.unrealengine.com/en-US/)
+&nbsp;
 
-##### Materials And Shading
+### [Unreal Engine](https://www.unrealengine.com/en-US/)
+
+#### Materials And Shading
 
 I helped with materials and shading development in Unreal Engine 4. Specifically, the improvement of character hair shading for the main character. I also helped with debugging and fixing materials on the Playstation 4.
+
+&nbsp;
 
 &nbsp;
 
@@ -77,15 +81,17 @@ I also helped enter localized game text for the French, German, Italian and Span
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/cygames-logo-technical.jpg){: width="600" height="336"}
 
 ## Internal Development
 
-#### Maya Log Aggregator
+### Maya Log Aggregator
 
 I Implemented a logging system for Maya that can collect logs from multiple running instances of Maya (2015, 2016, 2017)and aggregate them into a single comprehensive log file. I used the Python version of [ZMQ](https://zeromq.org) ([PyZMQ](https://zeromq.org/languages/python/)) recompiled for Maya to accomplish the task.
 
-#### Tool Logging Server
+### Tool Logging Server
 
 Created a python based logging server for receiving logging information from internal tools (Maya, Photoshop etc). The logs were collected for metrics to determine the usage rates and failure rates for our in-house tools. The metrics were visually displayed as various graphs and charts.
 
@@ -93,7 +99,9 @@ The server was initially put together with [Flask AppBuilder](https://flaskappbu
 
 The tool logging server was later reimplemented with [Kibana](https://www.elastic.co/kibana) and [FluentD](https://www.fluentd.org/). I also included [Slack](https://slack.com/) integration via webhooks so that we could have logs with critical errors sent to our developer Slack channel.
 
-#### Improvement of Development Operations
+&nbsp;
+
+### Improvement of Development Operations
 
 I conducted information research for improving quality of code and developer documentation. Some of the results include:
 
@@ -110,7 +118,9 @@ I conducted information research for improving quality of code and developer doc
   * [Sphinx For Confluence](https://github.com/sphinx-contrib/confluencebuilder)
   * [Doxygen For Confluence](https://docs.appfusions.com/display/DOXYGEN/Home)
 
-#### Graphics Research and Development
+&nbsp;
+
+### Graphics Research and Development
 
 &nbsp;Investigated implementing Ambient Occlusion rendering techniques for an unspecified Unity mobile title.
 
