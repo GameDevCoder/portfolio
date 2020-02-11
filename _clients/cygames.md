@@ -53,7 +53,7 @@ Any objects that had failed validation either due to incorrect naming or incorre
 
 Artists could use the tool to rapidly edit object names and hierarchy directly, or select an object rule preset and quickly apply a fix automatically.
 
-#### Unreal Engine
+#### [Unreal Engine](https://www.unrealengine.com/en-US/)
 
 ##### Materials And Shading
 
@@ -83,32 +83,36 @@ I also helped enter localized game text for the French, German, Italian and Span
 
 #### Maya Log Aggregator
 
-I Implemented a logging system for Maya that can collect logs from multiple running instances of Maya (2015, 2016, 2017)and aggregate them into a single comprehensive log file. I used PyZMQ (Python version of ZMQ), recompiled for Maya to accomplish the task.
+I Implemented a logging system for Maya that can collect logs from multiple running instances of Maya (2015, 2016, 2017)and aggregate them into a single comprehensive log file. I used the Python version of [ZMQ](https://zeromq.org) ([PyZMQ](https://zeromq.org/languages/python/)) recompiled for Maya to accomplish the task.
 
 #### Tool Logging Server
 
 Created a python based logging server for receiving logging information from internal tools (Maya, Photoshop etc). The logs were collected for metrics to determine the usage rates and failure rates for our in-house tools. The metrics were visually displayed as various graphs and charts.
 
-The server was initially put together with Flask AppBuilder (Python Server), CherryPY (as the WSGI server), REST API, JINJA2 templates,SQL Alchemy and a Postgres Database.
+The server was initially put together with [Flask AppBuilder](https://flaskappbuilder.pythonanywhere.com/), [CherryPY](https://cherrypy.org/) (as the WSGI server), [JINJA2](https://palletsprojects.com/p/jinja/) templates, [SQL Alchemy](https://www.sqlalchemy.org/) and a [Postgres Database](https://www.postgresql.org/).
 
-The tool logging server was later reimplemented with Kibana and FluentD. I also included Slack integration via webhooks so that we could have logs with critical errors sent to our developer Slack channel.
+The tool logging server was later reimplemented with [Kibana](https://www.elastic.co/kibana) and [FluentD](https://www.fluentd.org/). I also included [Slack](https://slack.com/) integration via webhooks so that we could have logs with critical errors sent to our developer Slack channel.
 
 #### Improvement of Development Operations
 
-Researched information for multiple areas of development including:
+I conducted information research for improving quality of code and developer documentation. Some of the results include:
 
-* Coding Styles and Automated Implementations
-  * Unibeautify
-* Source Code Documentation Tools
+* Source Code Analysis Tools
+  * [SonarLint](https://www.sonarlint.org/)
+  * [SonarQube](https://www.sonarqube.org/)
+* Coding Styles and Coding Style Tools
+  * [Unibeautify](https://unibeautify.com/)
+* Source Code Documentation Generation Tools
   * Javascript : [Sphinx-JS](https://github.com/mozilla/sphinx-js), [TypeDoc](https://typedoc.org/)
-  * Python: [Sphinx](https://www.sphinx-doc.org/en/master/)
+  * Python: [Sphinx](https://www.sphinx-doc.org/en/master/) , [PyCharm Doc Generation](https://www.jetbrains.com/help/pycharm/generating-reference-documentation.html)
   * C/C++: [Doxygen](https://www.doxygen.nl/)
-
-\+ Source Code Documentation Integrations (Sphinx For Confluence, Doxygen For Confluence)+ Source Code Analysis Tools (Lint Tools, SonarQube, Coverity)
+* Source Code Documentation Integrations for Confluence
+  * [Sphinx For Confluence](https://github.com/sphinx-contrib/confluencebuilder)
+  * [Doxygen For Confluence](https://docs.appfusions.com/display/DOXYGEN/Home)
 
 #### Graphics Research and Development
 
-&nbsp;- Ambient Occlusion Rendering Techniques For Mobile -Investigated rendering techniques for implementing Ambient Occlusion for an unspecified mobile title.
+&nbsp;Investigated implementing Ambient Occlusion rendering techniques for an unspecified Unity mobile title.
 
 ## &nbsp;
 
