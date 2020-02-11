@@ -15,13 +15,17 @@ Working as a Technical Artist on Project Awakening at Cygames in Shibuya, Tokyo.
 
 ##### [StudioLibrary](https://www.studiolibrary.com/){: target="_blank"}
 
+StudioLibrary is a free tool for managing poses and animation in Autodesk Maya.
+
 I created a customized version of StudioLibrary for the character animators.
 
-The artists had been using an internally created pose tool but wanted to switch to StudioLibrary.&nbsp; I created an importer and converter tool to change all the old poses to StudioLibrary poses. This let the artists seamlessly change tools and continue their work without interruption.
+The artists had been using an internally created pose tool but wanted to switch to StudioLibrary.&nbsp; I created an importer and converter tool to change all the old poses to StudioLibrary poses. This let the artists seamlessly change over to StudioLibrary and continue their work without interruption.
 
-Support was added for Perforce to allow the artists to checkout and submit their poses to the repo directly from Maya. Perforce icons were added to all pose thumbnail previews to let artists know the current status of the files.
+For file versioning support, I added [Perforce](https://www.perforce.com/) integration to StudioLibrary to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya. Perforce icons were added to all pose thumbnail previews to let artists know the current status of the files.
 
-Poses in StudioLibrary are created at the origin, but sometimes artists need to apply poses to characters in other locations. Support was added to make it possible to apply poses to characters in those cases.
+Poses in StudioLibrary are created at the origin. But sometimes artists need to apply poses to characters in other locations. Support was added to make it possible to apply StudioLibrary poses to characters at world locations other than the origin.
+
+&nbsp;
 
 ##### [Pyblish](https://pyblish.com/){: target="_blank"}
 
