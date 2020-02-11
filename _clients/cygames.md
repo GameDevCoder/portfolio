@@ -2,7 +2,7 @@
 name: Cygames
 subtitle: Project Awakening
 external_url: 'https://www.cygames.co.jp/en/'
-image_path: /uploads/cygames-project-awakening-thumb.png
+image_path:
 ---
 
 ![](/uploads/cyagames-logo-2.png){: width="800" height="414"}
