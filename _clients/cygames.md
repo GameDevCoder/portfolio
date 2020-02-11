@@ -5,13 +5,15 @@ external_url: 'https://projectawakening.com/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
 
-2017 to Present
+Cygames - 2017 to Present
 
-Working as a Technical Artist on Project Awakening at Cygames in Shibuya, Tokyo.
+Currently working as a Technical Artist on **Project Awakening - Arise** at Cygames in Shibuya, Tokyo.
 
-&nbsp;
+## ![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}
 
-## Tool Development
+## Project Awakening
+
+#### Tool Development
 
 ##### [StudioLibrary](https://www.studiolibrary.com/){: target="_blank"}
 
@@ -25,15 +27,43 @@ For file versioning support, I added [Perforce](https://www.perforce.com/) integ
 
 Poses in StudioLibrary are created at the origin. But sometimes artists need to apply poses to characters in other locations. Support was added to make it possible to apply StudioLibrary poses to characters at world locations other than the origin.
 
-&nbsp;
-
 ##### [Pyblish](https://pyblish.com/){: target="_blank"}
 
-The 3D art team had naming convention rules for the objects that make up the 3D game models. To help the artists check, validate and fix object naming, I implemented a custom version of Pyblish, a DCC validation and publishing tool. A custom repair tool created using Pyside2 was integrated into Pyblish.&nbsp; The tool allowed for the creation and editing of naming rules to be applied. Direct editing of object naming and object hierarchy was also possible.
+Pyblish is a free tool for checking and verifying that art assets comply with the established project guidelines for production. It can be used in various DCC software including Autodesk Maya.
+
+The 3D art team had naming convention rules for the objects that make up the 3D game models. To help the artists check, validate and rapidly fix invalid model objects, I implemented a custom version of Pyblish.
+
+Plugins were created for collecting and testing the various model object parts like :
+
+* Main Model,
+* LOD Models,
+* Collision Models,
+* Rig Joints,
+* Materials and Textures.
+
+The objects were checked for proper naming and for proper object parenting (hierarchy check). Invalid objects showed up in red in the Pyblish validation result window.
+
+In addition to the above plugins, I also added a name and hierarchy editing tool created with PyQt / Pyside2 and Yaml.&nbsp; It included an object rule editor and object rule presets for each of the different model parts mentioned above. This editing tool could be opened directly from the Pyblish validation result window with a right click.
+
+Any objects that had failed validation either due to incorrect naming or incorrect object parenting would be displayed in the tool.
+
+Artists could use the tool to rapidly edit object names and hierarchy directly, or select an object rule preset and apply a fix automatically.
+
+#### Unreal Engine
+
+##### Materials And Shading
+
+I helped with materials and shading development in Unreal Engine 4. Specifically, the improvement of character hair shading for the main character. I also helped with debugging and fixing materials on the Playstation 4.
 
 &nbsp;
 
-Checking and validating the names of objects in a complex 3d
+![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
+
+## Zone of the Enders M∀RS (PS4 Remaster)
+
+### Localization
+
+&nbsp;
 
 &nbsp;
 
