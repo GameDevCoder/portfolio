@@ -29,6 +29,8 @@ For file versioning support, I added [Perforce](https://www.perforce.com/) integ
 
 Poses in StudioLibrary are created at the origin. But sometimes artists need to apply poses to characters in other locations. Support was added to make it possible to apply StudioLibrary poses to characters at world locations other than the origin.
 
+##### &nbsp;
+
 ##### [Pyblish](https://pyblish.com/){: target="_blank"}
 
 Pyblish is a free tool for checking and verifying that art assets comply with the established project guidelines for production. It can be used in various DCC software including Autodesk Maya.
@@ -41,7 +43,7 @@ Plugins were created for collecting and testing the various model object parts l
 * LOD Models,
 * Collision Models,
 * Rig Joints,
-* Materials and Textures.
+* Materials and Textures etc..
 
 The objects were checked for proper naming and for proper object parenting (hierarchy check). Invalid objects showed up in red in the Pyblish validation result window.
 
@@ -49,7 +51,7 @@ In addition to the above plugins, I also added a name and hierarchy editing tool
 
 Any objects that had failed validation either due to incorrect naming or incorrect object parenting would be displayed in the tool.
 
-Artists could use the tool to rapidly edit object names and hierarchy directly, or select an object rule preset and apply a fix automatically.
+Artists could use the tool to rapidly edit object names and hierarchy directly, or select an object rule preset and quickly apply a fix automatically.
 
 #### Unreal Engine
 
