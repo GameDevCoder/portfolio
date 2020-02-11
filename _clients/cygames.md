@@ -5,9 +5,11 @@ external_url: 'https://projectawakening.com/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
 
-Cygames - 2017 to Present
+![](/uploads/cyagames-logo-2.png){: width="800" height="414"}
 
-Currently working as a Technical Artist on **Project Awakening - Arise** at Cygames in Shibuya, Tokyo.
+2017 to Present
+
+Currently working as a Technical Artist on **Project Awakening - Arise** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
 
 ## ![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}
 
@@ -61,11 +63,11 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 ## Anubis Zone of the Enders M∀RS
 
-(Developed in conjuction with Konami)
+(Developed by Konami in conjuction with Cygames)
 
 ### Localization
 
-Some of my time at Cygames was spent working on localization efforts for the PS4 remaster of Zone of the Enders - M∀RS.
+Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.
 
 My tasks included proof reading and editing the games english text, reviewing in-game spoken English dialog and written English text displayed in the game's UI.
 
