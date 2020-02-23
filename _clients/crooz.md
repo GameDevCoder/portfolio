@@ -2,56 +2,94 @@
 name: Crooz
 subtitle: Final Fantasy Grand Masters
 external_url: 'https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters'
-image_path: /uploads/cygames-project-awakening-thumb.png
+image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
 
 ![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
 
 2014 to 2016
 
+## ![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg){: width="983" height="793"}
+
+## [Final Fantasy Grandmasters](https://projectawakening.com/en/)
+
+### Overview
+
 Worked as Lead Technical Artist on **Final Fantasy - Grandmasters** at [Crooz](https://www.cygames.co.jp/en/) in Roppongi, Tokyo.
 
-## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
+The mobile game was developed using Unity4 and later, Unity 5.
 
-## [Project Awakening](https://projectawakening.com/en/)
+### Graphics Development
 
-### Tool Development
+#### Material Animation
 
-#### [StudioLibrary](https://www.studiolibrary.com/){: target="_blank"}
+I developed critical core technology for the game's magic effect system. It allowed the artists to create all the effects in Maya using animation of material properties like Color, Alpha, UV Translation, UV Rotation, UV Scaling and UV Offsets.
 
-StudioLibrary is a free tool for managing poses and animation in Autodesk Maya.
+The core technology consisted of:
 
-I created a customized version of StudioLibrary for the character animators.
+* A custom Maya FBX exporter
+* A custom Unity FBX importer (Asset Post Processor)
+* A Custom Unity script and shader
 
-The artists had been using an internally created pose tool but wanted to switch to StudioLibrary.&nbsp; I created an importer and converter tool to change all the old poses to StudioLibrary poses. This let the artists seamlessly change over to StudioLibrary and continue their work without interruption.
+I created a custom Maya FBX exporter that handled exporting all the material animation curve data which was marked as "Custom Unity Data".
 
-For file versioning support, I added [Perforce](https://www.perforce.com/) integration to StudioLibrary to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya. Perforce icons were added to all pose thumbnail previews to let artists know the current status of the files.
+I also created a custom Importer for Unity that would import all of the material animation data from the custom FBX and automatically create unity animation clips from it.
 
-Poses in StudioLibrary are created at the origin. But sometimes artists need to apply poses to characters in other locations. Support was added to make it possible to apply StudioLibrary poses to characters at world locations other than the origin.
+Finally, a custom script and shader that I also developed was attached to the magic effect's Unity prefab to make it all work.
+
+![Maya was used to create all the magic effects in FFGM](/images/clients/crooz/unite-2016-tokyo-2/ffgm_maya_effect_produciton.png "FFGM Magic Effect Production"){: width="640" height="359"}
+
+#### Character Shaders
+
+I developed various shaders for the game's characters including a skin tone shader. It blended 2 colors for surface and subsurface coloring. A texture mask was used to shade only the skin areas.
+
+![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_chara_skin.jpg){: width="1944" height="1296"}
+
+#### Crystal Shader
+
+I worked together with the Art Director to create a shiny crystal effect for a blue crystal in the game. It used a variant of the surface / subsurface coloring used in the character shaders.
+
+![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_crystal.jpg){: width="1944" height="1296"}
+
+#### Post Effects
+
+During my time on the project I created post effects optimized for mobile which included : Outline glow with bloom, specular and fresnel lighting effects.
+
+&nbsp;
+
+### Tools Development
+
+\+ Created custom Maya FBX exporter for material animation (Color, Alpha and UV).
+
+\+ Created custom Unity importer for creating material animation resources.
+
+\+ Created unity asset preview and batch management tool for:&nbsp;
+
+\- Rapid creation of new prefabs from FBX assets.&nbsp;
+
+\- Rapid creation of Animation Controllers from FBX assets.&nbsp;
+
+\- Updating unity prefabs when FBX model geometry or animations changed. Scripts attached to the prefabs were preserved.&nbsp;
+
+\- Setting shader parameters / custom asset parameters. - Previewing unity models (with post effects)&nbsp;
+
+\- Previewing animation playback from Animation Controllers &nbsp; (With support for selectable animation layers & states, playback possible WITHOUT entering Unity's play-mode)&nbsp;
+
+\- Magic effect animation preview support included playback of material animation.&nbsp;
+
+\- Character model preview support included ability to change equipment and weapons.&nbsp;
+
+\- Enemy animation preview support included playback of magic effects for attacks. - Map model preview support included battle simulation
+
+&nbsp;
+
+&nbsp;
 
 ##### &nbsp;
 
-#### [Pyblish](https://pyblish.com/){: target="_blank"}
+&nbsp;
 
-Pyblish is a free tool for checking and verifying that art assets comply with the established project guidelines for production. It can be used in various DCC software including Autodesk Maya.
-
-The 3D art team had naming convention rules for the objects that make up the 3D game models. To help the artists check, validate and rapidly fix invalid model objects, I implemented a custom version of Pyblish.
-
-Plugins were created for collecting and testing the various model object parts like :
-
-* Main Model
-* LOD Models
-* Collision Models
-* Rig Joints
-* Materials and Textures
-
-The objects were checked for proper naming and for proper object parenting (hierarchy check). Invalid objects showed up in red in the Pyblish validation result window.
-
-In addition to the above plugins, I also added a name and hierarchy editing tool created with [Qt for Python](https://doc.qt.io/qtforpython/) (Pyside2) and [Yaml](https://yaml.org/).&nbsp; It included an object rule editor and object rule presets for each of the different model parts mentioned above. This editing tool could be opened directly from the Pyblish validation result window with a right click.
-
-Any objects that had failed validation either due to incorrect naming or incorrect object parenting would be displayed in the tool.
-
-Artists could use the tool to rapidly edit object names and hierarchy directly, or select an object rule preset and quickly apply a fix automatically.
+&nbsp;
 
 &nbsp;
 
