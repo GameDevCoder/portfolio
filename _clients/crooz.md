@@ -5,13 +5,13 @@ external_url: 'https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
 
-![](/uploads/cyagames-logo-2.png){: width="800" height="414"}
+![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
 
-2017 to Present
+2014 to 2016
 
-Currently working as a Technical Artist on **Project Awakening - Arise** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
+Worked as Lead Technical Artist on **Final Fantasy - Grandmasters** at [Crooz](https://www.cygames.co.jp/en/) in Roppongi, Tokyo.
 
-## [![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}](https://projectawakening.com/en/)
+## ![](/images/clients/crooz/ffgm/FF-Grandmasters_wide.jpg){: width="600" height="337"}
 
 ## [Project Awakening](https://projectawakening.com/en/)
 
