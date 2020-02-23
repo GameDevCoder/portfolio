@@ -11,7 +11,7 @@ image_path: /uploads/cygames-project-awakening-thumb.png
 
 Worked as Lead Technical Artist on **Final Fantasy - Grandmasters** at [Crooz](https://www.cygames.co.jp/en/) in Roppongi, Tokyo.
 
-## ![](/images/clients/crooz/ffgm/FF-Grandmasters_wide.jpg){: width="600" height="337"}
+## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
 
 ## [Project Awakening](https://projectawakening.com/en/)
 
