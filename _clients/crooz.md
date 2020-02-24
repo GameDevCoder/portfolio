@@ -35,7 +35,7 @@ The core technology consisted of:
 
 I created a custom Maya FBX exporter that handled exporting all the material animation curve data which was marked as "Custom Unity Data".
 
-I also created a custom Importer for Unity that would import all of the material animation data from the custom FBX and automatically create unity animation clips from it.
+I also created a custom importer for Unity that handled importing all of the material animation data from the custom FBX and automatically created Unity animation clips and an animation controller from it.
 
 Finally, a custom script and shader that I also developed was attached to the magic effect's Unity prefab to make it all work.
 
@@ -61,27 +61,22 @@ During my time on the project I created post effects optimized for mobile which 
 
 ### Tools Development
 
-\+ Created custom Maya FBX exporter for material animation (Color, Alpha and UV).
+#### Importers and Exporters for Material Animation
 
-\+ Created custom Unity importer for creating material animation resources.
+* Created a custom **Maya FBX exporter** for exporting material animation properties to Unity. The material animation properties included: Color, Alpha, UV Translation, UV Rotation, UV Scaling and UV Offsets.
+* Created a custom **Unity FBX importer** for importing material animation data from Maya which also automatically created the Unity animation resources like : Animation Clips and an Animation Controller with the Animation States already setup.
 
-\+ Created unity asset preview and batch management tool for:&nbsp;
+&nbsp;
 
-\- Rapid creation of new prefabs from FBX assets.&nbsp;
-
-\- Rapid creation of Animation Controllers from FBX assets.&nbsp;
-
-\- Updating unity prefabs when FBX model geometry or animations changed. Scripts attached to the prefabs were preserved.&nbsp;
-
-\- Setting shader parameters / custom asset parameters. - Previewing unity models (with post effects)&nbsp;
-
-\- Previewing animation playback from Animation Controllers &nbsp; (With support for selectable animation layers & states, playback possible WITHOUT entering Unity's play-mode)&nbsp;
-
-\- Magic effect animation preview support included playback of material animation.&nbsp;
-
-\- Character model preview support included ability to change equipment and weapons.&nbsp;
-
-\- Enemy animation preview support included playback of magic effects for attacks. - Map model preview support included battle simulation
+* Created unity asset preview and batch management tool for:&nbsp;
+* Rapid creation of new prefabs from FBX assets.&nbsp;
+* Rapid creation of Animation Controllers from FBX assets.&nbsp;
+* Updating unity prefabs when FBX model geometry or animations changed. Scripts attached to the prefabs were preserved.&nbsp;
+* Setting shader parameters / custom asset parameters. - Previewing unity models (with post effects)&nbsp;
+* Previewing animation playback from Animation Controllers &nbsp; (With support for selectable animation layers & states, playback possible WITHOUT entering Unity's play-mode)&nbsp;
+* Magic effect animation preview support included playback of material animation.&nbsp;
+* Character model preview support included ability to change equipment and weapons.&nbsp;
+* Enemy animation preview support included playback of magic effects for attacks. Map model preview support included battle simulation
 
 &nbsp;
 
