@@ -120,6 +120,8 @@ Magic effect animation preview support included playback of material animation.&
 
 Character model preview support included ability to change character type, gender, equipment and weapons. Playback of animation was also supported.
 
+![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_chara_viewer_tool_2.jpg){: width="1654" height="952"}
+
 &nbsp;
 
 ##### Enemy Previewer
