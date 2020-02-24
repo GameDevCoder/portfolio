@@ -110,7 +110,9 @@ The tool also featured standard media controls, scrubbing, time playback info an
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Animator_Controller_Playback_Tool.png){: width="647" height="76"}
 
-&nbsp;
+#### &nbsp;
+
+#### Productivity Tools for quick previewing of Unity Models
 
 * Magic effect animation preview support included playback of material animation.&nbsp;
 * Character model preview support included ability to change equipment and weapons.&nbsp;
