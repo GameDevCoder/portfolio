@@ -110,7 +110,7 @@ The tool also featured standard media controls, scrubbing, time playback info an
 
 #### &nbsp;
 
-#### Productivity Tools for quick previewing of Unity Models
+#### Look Dev Tools for quick previewing of Unity Models
 
 ##### Magic Effect Previewer
 
@@ -128,15 +128,13 @@ Enemy animation preview support included playback of attacks and attack effects.
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_enemy_viewer_tool_2.jpg){: width="1645" height="922"}
 
-&nbsp;
-
 ##### Map Previewer
 
-Map model preview support included ability to change map type. A battle simulation mode allowed artists to preview the maps with characters and enemies at a battle location engaged in a mock battle situation.
+Map model preview support included ability to change map type.
 
-&nbsp;
+\*\*Although not shown in this version, a battle simulation mode allowed artists to preview the maps with characters and enemies at a battle location engaged in a mock battle situation.
 
-&nbsp;
+![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_map_viewer_tool_2.jpg){: width="1774" height="1014"}
 
 ##### &nbsp;
 
