@@ -144,14 +144,6 @@ Map model preview support included ability to change map type.
 
 &nbsp;
 
-### [Unreal Engine](https://www.unrealengine.com/en-US/)
-
-#### Materials And Shading
-
-I helped with materials and shading development in Unreal Engine 4. Specifically, the improvement of character hair shading for the main character. I also helped with debugging and fixing materials on the Playstation 4.
-
-&nbsp;
-
 &nbsp;
 
 ![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
