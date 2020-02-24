@@ -5,17 +5,23 @@ external_url: 'https://www.cygames.co.jp/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
 
-![](/uploads/cyagames-logo-2.png){: width="800" height="414"}
+# ![](/uploads/cyagames-logo-2.png){: width="800" height="414"}Company: Cygames
 
-### Overview
+## Employment Overview
 
 From the fall of 2017 up to present, I am working as a **Technical Artist** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
 
+&nbsp;
+
+## Playstation 4 Game Project
+
 ## [![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}](https://projectawakening.com/en/)
 
-## [Project Awakening](https://projectawakening.com/en/)
+## [Project Awakening - Arise](https://projectawakening.com/en/)
 
-From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( and soon Playstation 5) title "Project Awakening - Arise"
+From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( soon Playstation 5) title "Project Awakening - Arise"
+
+The project is initially built with Unreal Engine. Work is underway to switch over to the custom, in-house game engine "Cyllista".
 
 ### Tool Development
 
@@ -66,6 +72,8 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 &nbsp;
 
 &nbsp;
+
+## Playstation 4 Game Project
 
 ![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
 
