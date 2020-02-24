@@ -9,7 +9,7 @@ image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 
 2014 to 2016
 
-## ![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg){: width="983" height="793"}
+## ![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}
 
 ## [Final Fantasy Grandmasters](https://projectawakening.com/en/)
 
