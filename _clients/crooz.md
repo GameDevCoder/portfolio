@@ -96,19 +96,22 @@ The tool could also be used to mass update existing prefabs. A prefab's referenc
 
 &nbsp;
 
-#### Productivity Tools for quick previewing of Unity Models and Animation
+#### Productivity Tools for quick previewing of Unity Model Animation
 
 ##### Animation Playback in Unity Editor
 
 At this time to preview animations in Unity, you had to press the triangle "Play Button" and go into Playmode. This was actually a very lengthy process. The more assets we added to the game, the more time it took to get into Playmode.
 
-To save time for previewing model animations, I created a way to playback animations from Animation Controllers WITHOUT entering Unity's Playmode.
+To save time, I created a way to playback animations from Animation Controllers WITHOUT entering Unity's Playmode.
 
 The Controller's Animation Layers and Animation States were selectable and each animation could be easily previewed.
 
+The tool also featured standard media controls, time playback info and an animation loop option.
+
+![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Animator_Controller_Playback_Tool.png){: width="647" height="76"}
+
 &nbsp;
 
-* Previewing animation playback from Animation Controllers &nbsp; (With support for selectable animation layers & states, playback possible WITHOUT entering Unity's play-mode)&nbsp;
 * Magic effect animation preview support included playback of material animation.&nbsp;
 * Character model preview support included ability to change equipment and weapons.&nbsp;
 * Enemy animation preview support included playback of magic effects for attacks. Map model preview support included battle simulation
