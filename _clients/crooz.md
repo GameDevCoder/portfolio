@@ -88,6 +88,10 @@ I also created a tool which allowed the artists to quickly create and setup Unit
 
 Building upon the previous tools mentioned above, I created a comprehensive all in one Unity prefab batch creation tool. Artists could drag and drop FBX assets from Unity onto the tool's asset list panel. It allowed the artists to create hundreds of prefabs at once. The settings for the prefabs could be applied to single, multiple, or all prefabs in the asset list.
 
+The tool could also be used to mass update existing prefabs. A prefab's reference FBX model and animations would be automatically updated to the latest version. Any custom scripts attached to the prefab at the time of update would also be preserved.
+
+\*\*Although not shown in this version, a preview pane was added to the right hand side of the batching tool. This allowed artists to quickly preview models with shaders and post effects before creating the prefab.
+
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_prefab_creator_batch_tool_2.jpg){: width="1735" height="981"}
 
 &nbsp;
@@ -96,11 +100,6 @@ Building upon the previous tools mentioned above, I created a comprehensive all 
 
 &nbsp;
 
-* Created unity asset preview and batch management tool for:&nbsp;
-* Rapid creation of new prefabs from FBX assets.&nbsp;
-* Rapid creation of Animation Controllers from FBX assets.&nbsp;
-* Updating unity prefabs when FBX model geometry or animations changed. Scripts attached to the prefabs were preserved.&nbsp;
-* Setting shader parameters / custom asset parameters. - Previewing unity models (with post effects)&nbsp;
 * Previewing animation playback from Animation Controllers &nbsp; (With support for selectable animation layers & states, playback possible WITHOUT entering Unity's play-mode)&nbsp;
 * Magic effect animation preview support included playback of material animation.&nbsp;
 * Character model preview support included ability to change equipment and weapons.&nbsp;
