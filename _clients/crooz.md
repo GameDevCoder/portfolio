@@ -1,21 +1,23 @@
 ---
 name: Crooz
-subtitle: Final Fantasy Grand Masters
+subtitle: '2014 - 2017 : Final Fantasy Grand Masters'
 external_url: 'https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
 
 ![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
 
-2014 to 2016
+2014 to 2017
 
-## ![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}
+## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
 
-## [Final Fantasy Grandmasters](https://projectawakening.com/en/)
+## [Final Fantasy Grandmasters](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
 
 ### Overview
 
-Worked as Lead Technical Artist on **Final Fantasy - Grandmasters** at [Crooz](https://www.cygames.co.jp/en/) in Roppongi, Tokyo.
+From the summer of 2014 up to the fall of 2016,
+
+I worked as Lead Technical Artist on **Final Fantasy - Grandmasters** at [Crooz](https://crooz.co.jp/) in Roppongi, Tokyo.
 
 The mobile game was developed using Unity4 and later, Unity 5.
 
