@@ -78,6 +78,12 @@ I created a tool which allowed the artists to quickly create and setup Unity Ani
 
 #### Productivity Tools for rapid creation and updating of Unity prefabs
 
+&nbsp;
+
+#### Productivity Tools for quick, easy previewing of Unity Models and Animation
+
+&nbsp;
+
 * Created unity asset preview and batch management tool for:&nbsp;
 * Rapid creation of new prefabs from FBX assets.&nbsp;
 * Rapid creation of Animation Controllers from FBX assets.&nbsp;
