@@ -66,13 +66,25 @@ During my time on the project I created post effects optimized for mobile which 
 * Created a custom **Maya FBX exporter** for exporting material animation properties to Unity. The material animation properties included: Color, Alpha, UV Translation, UV Rotation, UV Scaling and UV Offsets.
 * Created a custom **Unity FBX importer** for importing material animation data from Maya which also automatically created the Unity animation resources like : Animation Clips and an Animation Controller with the Animation States already setup.
 
-#### Productivity Tools for rapid creation of Unity resources
+#### Productivity Tools for rapid creation of Unity assets
+
+##### Prefab Creator Tool
+
+I created a tool which allowed artists to easily create prefabs from FBX model assets in Unity. The artists could specify the prefab's name, file path and material shader. The tool was opened by right clicking on the FBX asset.
+
+![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Prefab_Creaton_Tool.png){: width="1104" height="190"}
 
 ##### Animation Controller Creator Tool
 
-I created a tool which allowed the artists to quickly create and setup Unity Animation Controllers from an animated FBX resource. The tool supported rapid creation and editing of Animation Layers, Animation States and Animation Parameters. The tool was opened by right clicking on an FBX asset in Unity.
+I also created a tool which allowed the artists to quickly create and setup Unity Animation Controllers from an animated FBX resource. The tool supported rapid creation and editing of Animation Layers, Animation States and Animation Parameters. The tool was opened by right clicking on an FBX animation asset in Unity.
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Animation_Controller_Creator_Tool.png){: width="855" height="419"}
+
+##### &nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
