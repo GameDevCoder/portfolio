@@ -19,7 +19,7 @@ From the fall of 2017 up to present, I am working as a **Technical Artist** at [
 
 ## [![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}](https://projectawakening.com/en/)
 
-## Overview
+### Overview
 
 From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( soon Playstation 5) title "Project Awakening - Arise"
 
@@ -81,7 +81,7 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 ![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
 
-## Overview
+### Overview
 
 (Developed by Konami in conjunction with Cygames)
 
