@@ -19,7 +19,7 @@ From January 2014 up to the late summer of 2016, I worked at **[Crooz](https://c
 
 ## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
 
-### Project Overview
+### Overview
 
 From the summer of 2014 to the summer of 2016,&nbsp; I worked as **Lead Technical Artist** on **Final Fantasy - Grandmasters**.
 
@@ -148,13 +148,15 @@ Map model preview support included ability to change map type.
 
 &nbsp;
 
-# Unity Mobile Game Project
+## Unity Mobile Game Project
+
+### ACR Drift
 
 ![](/images/clients/crooz/acr-drift/acr-drift-splash.jpg){: width="1900" height="1267"}
 
-## [ACR Drift](https://www.konami.com/games/zoe_mars/as/en/)
+### Overview
 
-From January 2014 up to Spring,&nbsp; I worked as a **Technical Artist** on the mobile game title "ACR Drift".
+From January 2014 up to May 2014,&nbsp; I worked as a **Technical Artist** on the mobile game title "ACR Drift".
 
 The title was developed using Unity 4.
 
