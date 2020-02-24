@@ -7,17 +7,19 @@ image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 
 ![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
 
-&nbsp;
+### Overview
 
-From the summer of 2014 to the summer of 2016,&nbsp; I worked as **Lead Technical Artist** on **Final Fantasy - Grandmasters** at **[Crooz](https://crooz.co.jp/)** in **Roppongi, Tokyo**.
-
-From the fall of 2016, the game project and it's staff were transferred to another game development company where I continued to provide maintence and support on the project until the late summer of 2017.
-
-The mobile game was developed using Unity4 and later, Unity 5.
+From January 2014 up to the late summer of 2016, I worked at **[Crooz](https://crooz.co.jp/)** in **Roppongi, Tokyo** on various game projects.<br>&nbsp;
 
 ## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
 
 ## [Final Fantasy Grandmasters](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
+
+From the summer of 2014 to the summer of 2016,&nbsp; I worked as **Lead Technical Artist** on **Final Fantasy - Grandmasters**.
+
+From the fall of 2016, the game project and it's staff were transferred to another game development company where I continued to provide maintence and support on the project until the late summer of 2017.
+
+The mobile game was developed using Unity4 and later, Unity 5.
 
 ### Graphics Development
 
