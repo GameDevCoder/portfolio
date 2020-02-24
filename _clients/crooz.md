@@ -120,11 +120,17 @@ Magic effect animation preview support included playback of material animation.&
 
 ##### Character Previewer
 
-Character model preview support included ability to change equipment and weapons.&nbsp;
+Character model preview support included ability to change character type, gender, equipment and weapons. Playback of animation was also supported.
+
+&nbsp;
 
 ##### Enemy Previewer
 
-Enemy animation preview support included playback of magic effects for attacks. Map model preview support included battle simulation
+Enemy animation preview support included playback of attacks and attack effects.
+
+##### Map Previewer
+
+Map model preview support included ability to change map type. A battle simulation mode allowed artists to preview the maps with characters and enemies at a battle location engaged in a mock battle situation.
 
 &nbsp;
 
