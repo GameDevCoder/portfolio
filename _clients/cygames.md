@@ -7,9 +7,7 @@ image_path: /uploads/cygames-project-awakening-thumb.png
 
 ![](/uploads/cyagames-logo-2.png){: width="800" height="414"}
 
-2017 to Present
-
-Currently working as a Technical Artist on **Project Awakening - Arise** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
+From the fall of 2017 up to present, I am working as a **Technical Artist** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
 
 ## [![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}](https://projectawakening.com/en/)
 
