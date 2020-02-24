@@ -1,7 +1,7 @@
 ---
 name: Crooz
 subtitle: '2014 - 2017 : Final Fantasy Grand Masters'
-external_url: 'https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters'
+external_url: 'https://crooz.co.jp/'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
 
