@@ -5,7 +5,7 @@ external_url: 'https://www.cygames.co.jp/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
 
-# ![](/uploads/cyagames-logo-2.png){: width="800" height="414"}Company: Cygames
+# ![](/uploads/cyagames-logo-2.png){: width="800" height="414"}Cygames
 
 ## Employment Overview
 
@@ -15,9 +15,11 @@ From the fall of 2017 up to present, I am working as a **Technical Artist** at [
 
 ## Playstation 4 Game Project
 
+### [Project Awakening - Arise](https://projectawakening.com/en/)
+
 ## [![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}](https://projectawakening.com/en/)
 
-## [Project Awakening - Arise](https://projectawakening.com/en/)
+## Overview
 
 From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( soon Playstation 5) title "Project Awakening - Arise"
 
@@ -75,9 +77,11 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 ## Playstation 4 Game Project
 
+### [Anubis Zone of the Enders M∀RS](https://www.konami.com/games/zoe_mars/as/en/)
+
 ![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
 
-## [Anubis Zone of the Enders M∀RS](https://www.konami.com/games/zoe_mars/as/en/)
+## Overview
 
 (Developed by Konami in conjunction with Cygames)
 
@@ -92,6 +96,10 @@ My tasks included proof reading and editing the games English text, reviewing in
 I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.
 
 &nbsp;
+
+## &nbsp;
+
+## Internal Development
 
 ![](/uploads/cygames-logo-technical.jpg){: width="600" height="336"}
 
@@ -108,8 +116,6 @@ Created a python based logging server for receiving logging information from int
 The server was initially put together with [Flask AppBuilder](https://flaskappbuilder.pythonanywhere.com/), [CherryPY](https://cherrypy.org/) (as the WSGI server), [JINJA2](https://palletsprojects.com/p/jinja/) templates, [SQL Alchemy](https://www.sqlalchemy.org/) and a [Postgres Database](https://www.postgresql.org/).
 
 The tool logging server was later reimplemented with [Kibana](https://www.elastic.co/kibana) and [FluentD](https://www.fluentd.org/). I also included [Slack](https://slack.com/) integration via webhooks so that we could have logs with critical errors sent to our developer Slack channel.
-
-&nbsp;
 
 ### Improvement of Development Operations
 
@@ -128,12 +134,8 @@ I conducted information research for improving quality of code and developer doc
   * [Sphinx For Confluence](https://github.com/sphinx-contrib/confluencebuilder)
   * [Doxygen For Confluence](https://docs.appfusions.com/display/DOXYGEN/Home)
 
-&nbsp;
-
 ### Research and Development
 
 #### Graphics
 
 &nbsp;Investigated implementing Ambient Occlusion rendering techniques for an unspecified Unity mobile title.
-
-## &nbsp;
