@@ -7,11 +7,15 @@ image_path: /uploads/cygames-project-awakening-thumb.png
 
 ![](/uploads/cyagames-logo-2.png){: width="800" height="414"}
 
+### Overview
+
 From the fall of 2017 up to present, I am working as a **Technical Artist** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
 
 ## [![](/uploads/cygames-project-awakening.png){: width="1200" height="630"}](https://projectawakening.com/en/)
 
 ## [Project Awakening](https://projectawakening.com/en/)
+
+From 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( and soon Playstation 5) title "Project Awakening - Arise"
 
 ### Tool Development
 
