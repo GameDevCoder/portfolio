@@ -122,11 +122,13 @@ Character model preview support included ability to change character type, gende
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_chara_viewer_tool_2.jpg){: width="1654" height="952"}
 
-&nbsp;
-
 ##### Enemy Previewer
 
 Enemy animation preview support included playback of attacks and attack effects.
+
+![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_enemy_viewer_tool_2.jpg){: width="1645" height="922"}
+
+&nbsp;
 
 ##### Map Previewer
 
