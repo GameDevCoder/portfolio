@@ -70,13 +70,15 @@ During my time on the project I created post effects optimized for mobile which 
 
 ##### Animation Controller Creator Tool
 
-I created a tool which allowed the artists to quickly create and setup Unity Animation Controllers from an animated FBX resource. The tool supported rapid creation and editing of Animation Layers, Animation States and Animation Parameters.
+I created a tool which allowed the artists to quickly create and setup Unity Animation Controllers from an animated FBX resource. The tool supported rapid creation and editing of Animation Layers, Animation States and Animation Parameters. The tool was opened by right clicking on an FBX asset in Unity.
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Animation_Controller_Creator_Tool.png){: width="855" height="419"}
 
 &nbsp;
 
-#### Productivity Tools for rapid creation and updating of Unity prefabs
+#### Productivity Tools for rapid creation of Unity prefabs
+
+&nbsp;
 
 &nbsp;
 
