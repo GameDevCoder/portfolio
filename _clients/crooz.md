@@ -82,15 +82,9 @@ I also created a tool which allowed the artists to quickly create and setup Unit
 
 ##### &nbsp;
 
-&nbsp;
+#### Batching Tools for mass rapid creation of Unity prefabs
 
-&nbsp;
-
-&nbsp;
-
-#### Productivity Tools for rapid creation of Unity prefabs
-
-&nbsp;
+Building upon the previous tools mentioned above, I created a comprehensive all in one Unity prefab batch creation tool. Artists could drag and drop FBX assets from Unity onto the tool's asset list panel. It allowed the artists to create hundreds of prefabs at once. The settings for the prefabs could be applied to single, multiple, or all prefabs in the asset list.
 
 &nbsp;
 
