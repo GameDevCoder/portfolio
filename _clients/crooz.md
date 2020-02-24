@@ -96,7 +96,15 @@ The tool could also be used to mass update existing prefabs. A prefab's referenc
 
 &nbsp;
 
-#### Productivity Tools for quick, easy previewing of Unity Models and Animation
+#### Productivity Tools for quick previewing of Unity Models and Animation
+
+##### Animation Playback in Unity Editor
+
+At this time to preview animations in Unity, you had to press the triangle "Play Button" and go into Playmode. This was actually a very lengthy process. The more assets we added to the game, the more time it took to get into Playmode.
+
+To save time for previewing model animations, I created a way to playback animations from Animation Controllers WITHOUT entering Unity's Playmode.
+
+The Controller's Animation States were selectable and could be easily previewed.
 
 &nbsp;
 
