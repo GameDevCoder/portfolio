@@ -114,9 +114,17 @@ The tool also featured standard media controls, scrubbing, time playback info an
 
 #### Productivity Tools for quick previewing of Unity Models
 
-* Magic effect animation preview support included playback of material animation.&nbsp;
-* Character model preview support included ability to change equipment and weapons.&nbsp;
-* Enemy animation preview support included playback of magic effects for attacks. Map model preview support included battle simulation
+##### Magic Effect Previewer
+
+Magic effect animation preview support included playback of material animation.&nbsp;
+
+##### Character Previewer
+
+Character model preview support included ability to change equipment and weapons.&nbsp;
+
+##### Enemy Previewer
+
+Enemy animation preview support included playback of magic effects for attacks. Map model preview support included battle simulation
 
 &nbsp;
 
