@@ -104,7 +104,7 @@ At this time to preview animations in Unity, you had to press the triangle "Play
 
 To save time for previewing model animations, I created a way to playback animations from Animation Controllers WITHOUT entering Unity's Playmode.
 
-The Controller's Animation Layers and Animation States were selectable and individual animations could be easily previewed.
+The Controller's Animation Layers and Animation States were selectable and each animation could be easily previewed.
 
 &nbsp;
 
