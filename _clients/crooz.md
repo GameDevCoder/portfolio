@@ -106,7 +106,7 @@ To save time, I created a way to playback animations from Animation Controllers 
 
 The Controller's Animation Layers and Animation States were selectable and each animation could be easily previewed.
 
-The tool also featured standard media controls, time playback info and an animation loop option.
+The tool also featured standard media controls, scrubbing, time playback info and an animation loop option.
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Animator_Controller_Playback_Tool.png){: width="647" height="76"}
 
