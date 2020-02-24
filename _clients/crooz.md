@@ -5,9 +5,9 @@ external_url: 'https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
 
-## Company: CROOZ
-
 ## ![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
+
+# CROOZ
 
 ## Employment Overview
 
