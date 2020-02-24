@@ -5,15 +5,21 @@ external_url: 'https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
 
-![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
+## Company: CROOZ
 
-### Overview
+## ![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
+
+## Employment Overview
 
 From January 2014 up to the late summer of 2016, I worked at **[Crooz](https://crooz.co.jp/)** in **Roppongi, Tokyo** on various game projects.<br>&nbsp;
 
-## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
+# Unity Mobile Game Project
 
 ## [Final Fantasy Grandmasters](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
+
+## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
+
+### Project Overview
 
 From the summer of 2014 to the summer of 2016,&nbsp; I worked as **Lead Technical Artist** on **Final Fantasy - Grandmasters**.
 
@@ -142,71 +148,20 @@ Map model preview support included ability to change map type.
 
 &nbsp;
 
-&nbsp;
+# Unity Mobile Game Project
 
-&nbsp;
+![](/images/clients/crooz/acr-drift/acr-drift-splash.jpg){: width="1900" height="1267"}
 
-&nbsp;
+## [ACR Drift](https://www.konami.com/games/zoe_mars/as/en/)
 
-![](/uploads/anubis-zone-of-the-enders-large.jpg){: width="616" height="353"}
+From January 2014 up to Spring,&nbsp; I worked as a **Technical Artist** on the mobile game title "ACR Drift".
 
-## [Anubis Zone of the Enders M∀RS](https://www.konami.com/games/zoe_mars/as/en/)
+The title was developed using Unity 4.
 
-(Developed by Konami in conjunction with Cygames)
+### Graphical User Interfaces
 
-### Localization
+Some of my time at Crooz was spent working on creating the GUI for various game screens using[NGUI](https://www.tasharen.com/?page_id=140), the most popular Unity UI system at the time.
 
-Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.
+### Gameplay Tuning
 
-My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game's UI.
-
-I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.
-
-&nbsp;
-
-&nbsp;
-
-![](/uploads/cygames-logo-technical.jpg){: width="600" height="336"}
-
-## Internal Development
-
-### Maya Log Aggregator
-
-I Implemented a logging system for Maya that can collect logs from multiple running instances of Maya (2015, 2016, 2017) and aggregate them into a single comprehensive log file. I used the Python version of [ZMQ](https://zeromq.org) ([PyZMQ](https://zeromq.org/languages/python/)) recompiled for Maya to accomplish the task.
-
-### Tool Logging Server
-
-Created a python based logging server for receiving logging information from internal tools (Maya, Photoshop etc). The logs were collected for metrics to determine the usage rates and failure rates for our in-house tools. The metrics were visually displayed as various graphs and charts.
-
-The server was initially put together with [Flask AppBuilder](https://flaskappbuilder.pythonanywhere.com/), [CherryPY](https://cherrypy.org/) (as the WSGI server), [JINJA2](https://palletsprojects.com/p/jinja/) templates, [SQL Alchemy](https://www.sqlalchemy.org/) and a [Postgres Database](https://www.postgresql.org/).
-
-The tool logging server was later reimplemented with [Kibana](https://www.elastic.co/kibana) and [FluentD](https://www.fluentd.org/). I also included [Slack](https://slack.com/) integration via webhooks so that we could have logs with critical errors sent to our developer Slack channel.
-
-&nbsp;
-
-### Improvement of Development Operations
-
-I conducted information research for improving quality of code and developer documentation. Some of the results include:
-
-* Source Code Analysis Tools
-  * [SonarLint](https://www.sonarlint.org/)
-  * [SonarQube](https://www.sonarqube.org/)
-* Coding Styles and Coding Style Tools
-  * [Unibeautify](https://unibeautify.com/)
-* Source Code Documentation Generation Tools
-  * Javascript : [Sphinx-JS](https://github.com/mozilla/sphinx-js), [TypeDoc](https://typedoc.org/)
-  * Python: [Sphinx](https://www.sphinx-doc.org/en/master/) , [PyCharm Doc Generation](https://www.jetbrains.com/help/pycharm/generating-reference-documentation.html)
-  * C/C++: [Doxygen](https://www.doxygen.nl/)
-* Source Code Documentation Integrations for Confluence
-  * [Sphinx For Confluence](https://github.com/sphinx-contrib/confluencebuilder)
-  * [Doxygen For Confluence](https://docs.appfusions.com/display/DOXYGEN/Home)
-
-&nbsp;
-
-### Research and Development
-
-#### Graphics
-
-&nbsp;Investigated implementing Ambient Occlusion rendering techniques for an unspecified Unity mobile title.
-
-## &nbsp;
+I also helped out testing and tuning the car racing gameplay. Various aspects of the race were checked (Collision issues, car path of CPU racer, fairness, bugs).
