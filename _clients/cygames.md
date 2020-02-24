@@ -1,6 +1,6 @@
 ---
 name: Cygames
-subtitle: Project Awakening
+subtitle: '2017 - Present : Project Awakening'
 external_url: 'https://www.cygames.co.jp/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
@@ -75,7 +75,7 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.
 
-My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game's UI.
+My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game’s UI.
 
 I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.
 
