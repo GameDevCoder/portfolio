@@ -15,7 +15,7 @@ From the fall of 2017 up to present, I am working as a **Technical Artist** at [
 
 ## [Project Awakening](https://projectawakening.com/en/)
 
-From 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( and soon Playstation 5) title "Project Awakening - Arise"
+From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( and soon Playstation 5) title "Project Awakening - Arise"
 
 ### Tool Development
 
@@ -73,6 +73,8 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 (Developed by Konami in conjunction with Cygames)
 
+During the Summer of 2018, I helped with language localization work on the Playstation 4 title "Anubis Zone of the Enders M∀RS",
+
 ### Localization
 
 Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.
@@ -80,8 +82,6 @@ Some of my time at Cygames was spent working on localization efforts for the PS4
 My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game’s UI.
 
 I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.
-
-&nbsp;
 
 &nbsp;
 
