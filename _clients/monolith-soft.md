@@ -18,13 +18,13 @@ From February 1st 2006 to January 28th 2007 I worked as a **Physics Programmer**
 
 ## Nintendo Wii Game Project
 
-### [Disaster - Day of Crisis](https://projectawakening.com/en/)
+### [Disaster: Day of Crisis](https://www.nintendo.co.jp/wii/rdzj/index.html){: target="_blank"}
 
-![](/images/clients/monolith_soft/disaster_day_of_crisis/distaster_day_of_crisis_wide.jpg){: width="1600" height="800"}
+[![](/images/clients/monolith_soft/disaster_day_of_crisis/distaster_day_of_crisis_wide.jpg){: width="1600" height="800"}](https://www.nintendo.co.jp/wii/rdzj/index.html){: target="_blank"}
 
 ### Overview
 
-I worked on vehicle physics for the Nintendo Wii title "Disaster - Day of Crisis".
+I worked on vehicle physics for the Nintendo Wii title "Disaster: Day of Crisis".
 
 The [Havok Physics](https://www.havok.com/products/havok-physics/){: target="_blank"} engine was used for the physics in the game.
 
