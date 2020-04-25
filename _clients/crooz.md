@@ -78,7 +78,7 @@ During my time on the project I created post effects optimized for mobile which 
 
 ##### Prefab Creator Tool
 
-I created a tool which allowed artists to easily create prefabs from FBX model assets in Unity. The artists could specify the prefab's name, file path and material shader. The tool was opened by right clicking on the FBX asset.
+I created a tool which allowed artists to easily create prefabs from FBX model assets in Unity. The artists could specify the prefab's name, file path and material shader. The tool was opened by a custom menu or by right clicking on an FBX asset
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Prefab_Creaton_Tool.png){: width="1104" height="190"}
 
