@@ -2,12 +2,45 @@
 name: Monolith Soft
 subtitle: 2006 - 2007
 external_url: 'https://www.monolithsoft.co.jp/'
-image_path:
+image_path: >-
+  /images/clients/monolith_soft/disaster_day_of_crisis/disaster_day_of_crisis_tall.jpg
 ---
 
-&nbsp;
+![](/images/clients/monolith_soft/monolithsoft-1280x720.jpg){: width="1280" height="720"}
+
+# Monolith Soft
+
+## Employment Overview
+
+From February 1st 2006 to January 28th 2007 I worked as a **Physics Programmer** at [Monolith Software](https://www.monolithsoft.co.jp/){: target="_blank"} in Meguro, Tokyo.
 
 &nbsp;
+
+## Nintendo Wii Game Project
+
+### [Disaster - Day of Crisis](https://projectawakening.com/en/)
+
+![](/images/clients/monolith_soft/disaster_day_of_crisis/distaster_day_of_crisis_wide.jpg){: width="1600" height="800"}
+
+### Overview
+
+I worked on vehicle physics for the Nintendo Wii title "Disaster - Day of Crisis".
+
+The [Havok Physics](https://www.havok.com/products/havok-physics/){: target="_blank"} engine was used for the physics in the game.
+
+### Physics Development
+
+#### [Vehicle Physics](https://www.studiolibrary.com/){: target="_blank"}
+
+Havok Vehicle Physics is a part of the Havok Physics game middleware. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; It provides programmers with a way to simulate realistic vehicle physics.
+
+I implemented the vehicle physics for the cars and trucks in the game. I started by trying out the samples in the Havok SDK (C++) and changing the various vechicle settings to see how it affected the car physics.
+
+Then I&nbsp; implemented the vehicle physics to the car driven by the main character, and a truck used by the game's villains.
+
+Eventually, Lua scripts were used to customize the physics settings for the different vehicles in the game.
+
+The work involved a lot of trial and error, playing the vehicle game scenes over and over, tweaking the settings and getting it just right.
 
 &nbsp;
 
