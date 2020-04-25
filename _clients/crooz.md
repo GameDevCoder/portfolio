@@ -1,6 +1,6 @@
 ---
 name: Crooz
-subtitle: '2014 - 2017 : Final Fantasy - Grandmasters'
+subtitle: '2014 ~ 2017 : Final Fantasy - Grandmasters'
 external_url: 'https://crooz.co.jp/'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
