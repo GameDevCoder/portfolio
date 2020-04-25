@@ -14,6 +14,8 @@ image_path: >-
 
 From February 1st 2006 to January 28th 2007 I worked as a **Physics Programmer** at [Monolith Software](https://www.monolithsoft.co.jp/){: target="_blank"} in Meguro, Tokyo.
 
+I was hired as a "Temp" from an application and game development staffing company.
+
 &nbsp;
 
 ## Nintendo Wii Game Project
