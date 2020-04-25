@@ -21,9 +21,9 @@ From the fall of 2017 up to present, I am working as a **Technical Artist** at [
 
 ### Overview
 
-From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 ( soon Playstation 5) title "Project Awakening - Arise"
+From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 title "Project Awakening - Arise".
 
-The project is initially built with Unreal Engine. Work is underway to switch over to the custom, in-house game engine "Cyllista".
+The project was initially built with Unreal Engine. Work is underway to switch over to the custom in-house game engine called "Cyllista".
 
 ### Tool Development
 
