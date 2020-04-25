@@ -1,6 +1,6 @@
 ---
 name: Cygames
-subtitle: '2017 - Present : Project Awakening - Arise'
+subtitle: 2017 - 2020 (Present)
 external_url: 'https://www.cygames.co.jp/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
