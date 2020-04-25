@@ -1,6 +1,6 @@
 ---
 name: From Software
-subtitle: 2007/10 - 2008/02
+subtitle: '2007 / 10 - 2008 / 02 : Demon''s Souls'
 external_url: 'https://www.fromsoftware.jp/ww/'
 image_path: /images/clients/from_software/demons_souls/demons_souls_thumb.jpg
 ---
