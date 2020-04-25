@@ -33,7 +33,7 @@ I worked a little on effects programming for the Playstation 3 title "Nier Gesta
 
 #### Procedural Effects
 
-Procedural effects are created dynamically with mathematics and geometry at runtime. I worked on creating a trail effect for the attack motion of a wolf enemy. It was created using splines and cylinder tubes. The color and the alpha of the effect would fade over time in relation to the wolf's position and speed in the game.
+Procedural effects are created dynamically with mathematics and geometry at runtime. I worked on creating a trail effect for the attack motion of a wolf enemy. It was created using mathematical splines and cylinder tubes. The size and length as well as the color and the alpha of the effect would change over time in relation to the wolf's position and speed in the game.
 
 &nbsp;
 
