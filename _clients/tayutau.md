@@ -29,7 +29,7 @@ The company has since changed its name, rebranding itself as "[Amata](https://am
 
 The project was developed with Unity for both iPhone and Android smartphones.
 
-The game featured up close screens of 2D character faces which were dynamically animated with a middlware plugin from Silicon Studio called &nbsp; &nbsp; [Motion Portrait](https://www.siliconstudio.co.jp/en/products-service/motion-portrait/){: target="_blank"}. This gave the 2D character faces a pseudo 3D like appearance. &nbsp; &nbsp; I worked on implementing Motion Portrait as a Unity plugin for the game.
+The game featured up close screens of 2D character faces which were dynamically animated with a middlware plugin from Silicon Studio called &nbsp; &nbsp; [Motion Portrait](https://www.siliconstudio.co.jp/en/products-service/motion-portrait/){: target="_blank"}. This gave the 2D character faces a pseudo 3D like appearance. &nbsp; &nbsp;
 
 ![](/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_1.gif){: width="500" height="250"}
 
@@ -41,7 +41,9 @@ The game featured up close screens of 2D character faces which were dynamically 
 
 #### MotionPortrait
 
-I implemented a plugin for Unity and also built the necessary motion portrait binaries for iPhone and Android. It was not a straight forward process as custom changes to the Motion Portrait rendering code were needed to get it to work.
+I was in charge of implementing Motion Portrait as a Unity plugin for the game and supported both mobile platforms.
+
+I built the necessary motion portrait binaries for iPhone and Android. It was not a straight forward process as custom changes to the Motion Portrait rendering code were needed to get it to work.
 
 The iPhone side of the plugin was programmed with Objective C++. The Android side of the plugin was programmed with C++ and the Android NDK.
 
