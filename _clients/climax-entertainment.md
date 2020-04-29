@@ -1,5 +1,5 @@
 ---
-name: Climax PEntertainment
+name: Climax Entertainment
 subtitle: Steal Princess <br/> 2007 / 02 ~ 2007 / 09
 external_url: 'https://en.wikipedia.org/wiki/Climax_Entertainment'
 image_path: /images/clients/climax_entertainment/steal_princess/steal_princess_box_na.jpg
