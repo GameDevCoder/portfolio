@@ -1,6 +1,6 @@
 ---
 name: Monolith Soft
-subtitle: '2006 ~ 2007 : Disaster - Day of Crisis'
+subtitle: Disaster - Day of Crisis <br/> 2006 / 2 ~ 2007 / 2
 external_url: 'https://www.monolithsoft.co.jp/'
 image_path: >-
   /images/clients/monolith_soft/disaster_day_of_crisis/disaster_day_of_crisis_box.jpg
