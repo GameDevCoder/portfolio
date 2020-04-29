@@ -21,7 +21,7 @@ I was hired as a "Temp" from an application and game development staffing compan
 
 ### Last Rebellion
 
-![](/images/clients/hit_maker/last_rebellion/last_rebellion_box_art_.jpg){: width="1306" height="1500"}
+&nbsp;
 
 ### Overview
 
