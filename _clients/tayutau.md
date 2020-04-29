@@ -1,6 +1,6 @@
 ---
 name: Tayutau
-subtitle: '2013 / 10 ~ 2013 / 11 : Final Fantasy Agito'
+subtitle: Final Fantasy Agito <br/> 2013 / 10 ~ 2013 / 11
 external_url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Agito'
 image_path: /images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Logo-Box.png
 ---
