@@ -1,6 +1,6 @@
 ---
-name: Cavia
-subtitle: '2009 / 07 ~ 2009 / 08 : Nier Gestalt'
+name: 2009 / 07 ~ 2009 / 08 <br/> Cavia
+subtitle: Nier Gestalt
 external_url: 'https://en.wikipedia.org/wiki/Cavia_(company)'
 image_path: /images/clients/cavia/nier_gestalt/neir_gestalt_large.jpg
 ---
