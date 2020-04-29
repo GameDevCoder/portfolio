@@ -47,7 +47,7 @@ I also tried implementing animation "skinning" on the Playstation 3's SPU proces
 
 ### Credits
 
-I am publicly credited for the work on this game.
+I am publicly referenced as being credited for the work on this game.
 
 [The credits are listed under the section "Programmer" on Moby Games.](https://www.mobygames.com/game/last-rebellion){: target="_blank"}
 
