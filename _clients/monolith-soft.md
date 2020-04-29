@@ -38,7 +38,9 @@ The [Havok Physics](https://www.havok.com/products/havok-physics/){: target="_bl
 
 Havok Vehicle Physics is a part of the Havok Physics game middleware. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; It provides programmers with a way to simulate realistic vehicle physics.
 
-I implemented the vehicle physics for the cars and trucks in the game. I started by trying out the samples in the Havok SDK (C++) and changing the various vechicle settings to see how it affected the car physics.
+I was part of a small group (3 people) and helped implement the vehicle physics for the cars and trucks in the game.
+
+I started by trying out the samples in the Havok SDK (C++) and changing the various vehicle settings to see how it affected the car physics.
 
 Then I&nbsp; implemented the vehicle physics to the car driven by the main character, and a truck used by the game's villains.
 
