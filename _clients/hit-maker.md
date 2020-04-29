@@ -1,6 +1,6 @@
 ---
 name: Hit Maker
-subtitle: '2008 / 04 ~ 2009 / 06 : Last Rebellion'
+subtitle: Last Rebellion <br/> 2008 / 04 ~ 2009 / 06
 external_url: 'https://en.wikipedia.org/wiki/Last_Rebellion'
 image_path: /images/clients/hit_maker/last_rebellion/last_rebellion_box_art_.jpg
 ---
