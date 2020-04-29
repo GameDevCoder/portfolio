@@ -11,7 +11,7 @@ image_path: /images/clients/cavia/nier_gestalt/neir_gestalt_large.jpg
 
 ## Employment Overview
 
-From July 1st 2009 to August 28th 2009 I worked briefly as an **Effects Programmer** at Cavia, near Shinagawa Seaside, Tokyo.
+From July 1st 2009 to August 28th 2009 I briefly worked as an **Effects Programmer** at Cavia, near Shinagawa Seaside, Tokyo.
 
 I was hired as a "Temp" from an application and game development staffing company.
 
@@ -25,7 +25,7 @@ I was hired as a "Temp" from an application and game development staffing compan
 
 ### Overview
 
-I worked a little on effects programming for the Playstation 3 title "Nier Gestalt".
+I worked a little on procedural particle effects programming for the Playstation 3 title "Nier Gestalt".
 
 &nbsp;
 
@@ -33,7 +33,7 @@ I worked a little on effects programming for the Playstation 3 title "Nier Gesta
 
 #### Procedural Effects
 
-Procedural effects are created dynamically with mathematics and geometry at runtime. I worked on creating a trail effect for the attack motion of a wolf enemy. It was created using mathematical splines and cylinder tubes. The size and length as well as the color and the alpha of the effect would change over time in relation to the wolf's position and speed in the game.
+Procedural effects are created dynamically with mathematics and geometry at runtime. I worked on creating a trail effect for the attack motion of a wolf enemy. It was created using mathematical splines and cylinder tubes. The size and length as well as the color and the alpha of the trail effect would change over time in relation to the wolf's position and speed in the game.
 
 &nbsp;
 
