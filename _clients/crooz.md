@@ -11,7 +11,7 @@ image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 
 ## Employment Overview
 
-From January 2014 up to October 2016, I worked at **[Crooz](https://crooz.co.jp/)** in **Roppongi, Tokyo** on various game projects. One of them was **Final Fantasy Grandmasters**.
+From January 2014 up to October 2016, I worked at [Crooz](https://crooz.co.jp/) in Roppongi, Tokyo on various game projects. One of them was Final Fantasy Grandmasters.
 
 From November 2016, the game project and the team were sold off to another company which underwent a name change and was rebranded as Mighty Games. I continued providing updates and maintenance on the project until July 2017.<br>&nbsp;
 
