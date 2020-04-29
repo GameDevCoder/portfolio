@@ -23,8 +23,6 @@ I was hired as a "Temp" from an application and game development staffing compan
 
 ![](/images/clients/hit_maker/last_rebellion/last_rebellion_chara_logo_wide.jpg){: width="1280" height="680"}
 
-&nbsp;
-
 ### Overview
 
 I worked on improving the graphics engine for the Playstation 3 title "Last Rebellion".
