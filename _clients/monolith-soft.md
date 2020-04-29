@@ -2,7 +2,8 @@
 name: Monolith Soft
 subtitle: Disaster - Day of Crisis <br/> 2006 / 2 ~ 2007 / 1
 external_url: 'https://www.monolithsoft.co.jp/'
-image_path:
+image_path: >-
+  /images/clients/monolith_soft/disaster_day_of_crisis/disaster_day_of_crisis_box.jpg
 ---
 
 ![](/images/clients/monolith_soft/monolithsoft-1280x720.jpg){: width="1280" height="720"}
