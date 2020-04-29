@@ -21,8 +21,6 @@ I was hired as a "Temp" from an application and game development staffing compan
 
 ### Last Rebellion
 
-&nbsp;
-
 ### Overview
 
 I worked on improving the graphics engine for the Playstation 3 title "Last Rebellion".
