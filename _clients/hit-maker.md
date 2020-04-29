@@ -42,3 +42,13 @@ I created shaders (graphics rendering programs) for dynamic lighting, toon shadi
 As a part of internal research and development work, I also created toon outline and painterly style post effects.
 
 I also tried implementing animation "skinning" on the Playstation 3's SPU processors, which was challenging.
+
+&nbsp;
+
+### Credits
+
+I am publicly credited for the work on this game.
+
+[The credits are listed under the section "Programmer" on Moby Games.](https://www.mobygames.com/game/last-rebellion){: target="_blank"}
+
+&nbsp;
