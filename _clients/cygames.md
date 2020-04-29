@@ -1,6 +1,6 @@
 ---
 name: Cygames
-subtitle: '2017 / 09 ~ 2020 / (Present) : <br/>Project Awakening'
+subtitle: Project Awakening <br/> 2017 / 09 ~ 2020 / (Present)
 external_url: 'https://www.cygames.co.jp/en/'
 image_path: /uploads/cygames-project-awakening-thumb.png
 ---
