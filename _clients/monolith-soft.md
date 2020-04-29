@@ -44,7 +44,7 @@ Then I&nbsp; implemented the vehicle physics to the car driven by the main chara
 
 Eventually, Lua scripts were used to customize the physics settings for the different vehicles in the game.
 
-The work involved a lot of trial and error, playing the vehicle game scenes over and over, tweaking the settings and getting it just right.
+The physics work involved a lot of trial and error, playing the vehicle game scenes over and over, tweaking the settings and getting it just right.
 
 &nbsp;
 
