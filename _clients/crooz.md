@@ -1,6 +1,6 @@
 ---
 name: Crooz
-subtitle: '2014 ~ 2017 : Final Fantasy - Grandmasters'
+subtitle: Final Fantasy - Grandmasters <br/> 2014 ~ 2017
 external_url: 'https://crooz.co.jp/'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
@@ -11,7 +11,9 @@ image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 
 ## Employment Overview
 
-From January 2014 up to the late summer of 2016, I worked at **[Crooz](https://crooz.co.jp/)** in **Roppongi, Tokyo** on various game projects.<br>&nbsp;
+From January 2014 up to October 2016, I worked at **[Crooz](https://crooz.co.jp/)** in **Roppongi, Tokyo** on various game projects. One of them was Final Fantasy Grandmasters.
+
+From November 2016, the game project and the team were sold off to another company which underwent a name change and was rebranded as Mighty Games. I continued providing updates and maintenance on the project until July 2017.<br>&nbsp;
 
 # Unity Mobile Game Project
 
@@ -21,11 +23,11 @@ From January 2014 up to the late summer of 2016, I worked at **[Crooz](https://c
 
 ### Overview
 
-From the summer of 2014 to the summer of 2016,&nbsp; I worked as **Lead Technical Artist** on **Final Fantasy - Grandmasters**.
-
-From the fall of 2016, the game project and it's staff were transferred to another game development company where I continued to provide maintence and support on the project until the late summer of 2017.
+From June 2014 up to October 2016,&nbsp; I worked as **Lead Technical Artist** on **Final Fantasy - Grandmasters**.
 
 The mobile game was developed using Unity4 and later, Unity 5.
+
+The game and it's development were discussed in a presentation at &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Unite 2016 Tokyo](https://www.youtube.com/watch?v=h5bqn6BpX-I){: target="_blank"}.
 
 ### Graphics Development
 
@@ -37,13 +39,17 @@ The core technology consisted of:
 
 * A custom Maya FBX exporter
 * A custom Unity FBX importer (Asset Post Processor)
-* A Custom Unity script and shader
+* A Custom Unity script and shader for Material Animation
 
 I created a custom Maya FBX exporter that handled exporting all the material animation curve data which was marked as "Custom Unity Data".
 
-I also created a custom importer for Unity that handled importing all of the material animation data from the custom FBX and automatically created Unity animation clips and an animation controller from it.
+I also created a custom importer for Unity that handled importing all of the material animation data from the custom FBX.
 
-Finally, a custom script and shader that I also developed was attached to the magic effect's Unity prefab to make it all work.
+The importer also automatically created the Unity Animation Clips and Animation Controller, all set up and ready to use.
+
+Finally, a custom script and shader that I also developed was attached to the imported magic effect's Unity GameObject to make it all work.
+
+&lt;a screenshot showing that the magic effects were made in Maya&gt;
 
 ![Maya was used to create all the magic effects in FFGM](/images/clients/crooz/unite-2016-tokyo-2/ffgm_maya_effect_produciton.png "FFGM Magic Effect Production"){: width="640" height="359"}
 
@@ -51,17 +57,21 @@ Finally, a custom script and shader that I also developed was attached to the ma
 
 I developed various shaders for the game's characters including a skin tone shader. It blended 2 colors for surface and subsurface coloring. A texture mask was used to shade only the skin areas.
 
+&lt;a screenshot showing the character skin shader with various color tones&gt;
+
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_chara_skin.jpg){: width="1944" height="1296"}
 
 #### Crystal Shader
 
 I worked together with the Art Director to create a shiny crystal effect for a blue crystal in the game. It used a variant of the surface / subsurface coloring used in the character shaders.
 
+&lt;a screen shot of the crystal shader and the textures used&gt;
+
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_crystal.jpg){: width="1944" height="1296"}
 
 #### Post Effects
 
-During my time on the project I created post effects optimized for mobile which included : Outline glow with bloom, specular and fresnel lighting effects.
+During my time on the project I created post effects optimized for mobile which included : Outline glow with bloom as well as specular and fresnel lighting effects.
 
 &nbsp;
 
@@ -69,8 +79,8 @@ During my time on the project I created post effects optimized for mobile which 
 
 #### Importers and Exporters for Material Animation
 
-* Created a custom **Maya FBX exporter** for exporting material animation properties to Unity. The material animation properties included: Color, Alpha, UV Translation, UV Rotation, UV Scaling and UV Offsets.
-* Created a custom **Unity FBX importer** for importing material animation data from Maya which also automatically created the Unity animation resources like : Animation Clips and an Animation Controller with the Animation States already setup.
+* I created a custom **Maya FBX exporter** for exporting material animation properties to Unity. The material animation properties included: Color, Alpha, UV Translation, UV Rotation, UV Scaling and UV Offsets.
+* I also created a custom **Unity FBX importer** for importing material animation data from Maya and also automatically created the Unity animation resources like : Animation Clips and an Animation Controller with the Animation States already setup.
 
 &nbsp;
 
@@ -92,9 +102,11 @@ I also created a tool which allowed the artists to quickly create and setup Unit
 
 #### Automated Batching Tool for the mass, rapid creation of Unity prefabs
 
-Building upon the previous tools mentioned above, I created a comprehensive all in one Unity prefab batch creation tool. Artists could drag and drop FBX assets from Unity onto the tool's asset list panel. It allowed the artists to create hundreds of prefabs at once. The settings for the prefabs could be applied to single, multiple, or all prefabs in the asset list.
+Building upon the previous tools mentioned above, I created a comprehensive all in one Unity prefab creation batch tool. Artists could drag and drop FBX assets from Unity onto the tool's asset list panel. It allowed the artists to create hundreds of prefabs at once.
 
-The tool could also be used to mass update existing prefabs. A prefab's reference FBX model and animations would be automatically updated to the latest version. Any custom scripts attached to the prefab at the time of update would also be preserved.
+The asset panel featured a checkbox based selection system so that artists could selectively create prefabs with the desired settings.
+
+The tool could also be used to mass update existing Unity prefabs. If a newer version of the prefab's FBX asset was imported into Unity, the prefab's model and animations could be automatically updated, matching the latest FBX version. &nbsp; Any custom scripts attached to the prefab at the time of update would also be preserved.
 
 \*\*Although not shown in this version, a preview pane was added to the right hand side of the batching tool. This allowed artists to quickly preview models with shaders and post effects before creating the prefab.
 
@@ -106,7 +118,7 @@ The tool could also be used to mass update existing prefabs. A prefab's referenc
 
 ##### Animation Playback in Unity Editor
 
-At this time to preview animations in Unity, you had to press the triangle "Play Button" and go into Playmode. This was actually a very lengthy process. The more assets we added to the game, the more time it took to get into Playmode.
+At this time to preview animations in Unity, you had to press the triangle "Play Button" and go into Playmode. This was actually a very lengthy process. The more FBX assets we added to the Unity project, the more time it took to get into Playmode.
 
 To save time, I created a way to playback animations from Animation Controllers WITHOUT entering Unity's Playmode.
 
@@ -122,25 +134,25 @@ The tool also featured standard media controls, scrubbing, time playback info an
 
 ##### Magic Effect Previewer
 
-Magic effect animation preview support included playback of material animation.&nbsp;
+Magic Effect preview support included playback of the effect's animation.&nbsp;
 
 ##### Character Previewer
 
-Character model preview support included ability to change character type, gender, equipment and weapons. Playback of animation was also supported.
+Character Model preview support included ability to change character type, character parts, gender, armor and weapons. Each model could be selectively disabled from rendering. Playback of animation was also supported.
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_chara_viewer_tool_2.jpg){: width="1654" height="952"}
 
 ##### Enemy Previewer
 
-Enemy animation preview support included playback of attacks and attack effects.
+Enemy Model preview support included playback of animation layers and states as well as effects that were timed with the animations.
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_enemy_viewer_tool_2.jpg){: width="1645" height="922"}
 
 ##### Map Previewer
 
-Map model preview support included ability to change map type.
+Map Model preview support included the ability to change the map type.
 
-\*\*Although not shown in this version, a battle simulation mode allowed artists to preview the maps with characters and enemies at a battle location engaged in a mock battle situation.
+\*\*Although not shown in this version, a battle simulation mode allowed artists to preview the maps with characters and enemies setup at a battle location engaged in a mock battle situation.
 
 ![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_map_viewer_tool_2.jpg){: width="1774" height="1014"}
 
@@ -162,8 +174,8 @@ The title was developed using Unity 4.
 
 ### Graphical User Interfaces
 
-Some of my time at Crooz was spent working on creating the GUI for various game screens using[NGUI](https://www.tasharen.com/?page_id=140), the most popular Unity UI system at the time.
+Some of my time at Crooz was spent working on creating the GUI for various game screens using [NGUI](https://www.tasharen.com/?page_id=140), the most popular UI system for Unity at the time.
 
 ### Gameplay Tuning
 
-I also helped out testing and tuning the car racing gameplay. Various aspects of the race were checked (Collision issues, car path of CPU racer, fairness, bugs).
+I also helped out with gameplay testing, especially the car racing. Various aspects of the race were checked (Collision issues, car path of CPU racer, fairness, bugs).
