@@ -2,7 +2,7 @@
 name: From Software
 subtitle: Demon's Souls <br/> 2007 / 10 ~ 2008 / 02
 external_url: 'https://www.fromsoftware.jp/ww/'
-image_path: /images/clients/from_software/demons_souls/demons_souls_box_bg.png
+image_path:
 ---
 
 ![](/images/clients/from_software/from_software_logo.png){: width="831" height="323"}
