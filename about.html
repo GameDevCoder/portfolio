@@ -10,7 +10,7 @@ subtitle: A short introduction
 		<div>
 			<!-- {{ content }} -->
 			{% for member in site.staff_members %}
-				<li>{% include staff-member.html member=member %}</li>
+				{{ member.content }}
 			{% endfor %}
 		</div>
 	</div>
