@@ -9,9 +9,9 @@ subtitle: A short introduction
 		<!-- <p><img src="{% include relative-src.html src=page.image_path %}" class="screenshot"></p> -->
 		<div>
 			<!-- {{ content }} -->
-			{% for member in site.staff_members %}
-				{{ member.content }}
-			{% endfor %}
+			
+			{{ site.staff_members[0].content }}
+			
 		</div>
 	</div>
 </section>
