@@ -4,6 +4,20 @@ heading: About Me
 subtitle: A short introduction
 ---
 
+<section class="diagonal">
+	<div class="container">
+		<!-- <p><img src="{% include relative-src.html src=page.image_path %}" class="screenshot"></p> -->
+		<div>
+			<!-- {{ content }} -->
+			{% for member in site.staff_members %}
+				<li>{% include staff-member.html member=member %}</li>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
+<!--
+
 <section class="diagonal patterned">
 	<div class="container">
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
@@ -14,3 +28,5 @@ subtitle: A short introduction
 		</ul>
 	</div>
 </section>
+
+-->
