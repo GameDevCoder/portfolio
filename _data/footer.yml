@@ -17,7 +17,7 @@
       social_icon: Twitter
       new_window: true
     - name: LinkedIn
-      link: 'https://nz.linkedin.com/company/cloud-cannon'
+      link:
       social_icon: LinkedIn
       new_window: true
     - name: Github
