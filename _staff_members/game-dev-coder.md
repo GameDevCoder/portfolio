@@ -5,4 +5,4 @@ image_path: /uploads/game-developer-1.jpg
 twitter:
 ---
 
-Once upon a time etc.. etc..
+Fluffy bunnies ....
