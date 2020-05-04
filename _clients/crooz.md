@@ -1,6 +1,6 @@
 ---
 name: Crooz
-subtitle: Final Fantasy - Grandmasters <br/> 2014 / 1 ~ 2017 / 7
+subtitle: 'Final Fantasy - Grandmasters, ACR Drift <br/> 2014 / 1 ~ 2017 / 7'
 external_url: 'https://crooz.co.jp/'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
