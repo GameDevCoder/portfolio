@@ -27,4 +27,4 @@ I have also previously worked on console and mobile game titles including [Final
 
 Want to get in touch ?
 
-Feel free to contact me via the [contact page](/contact-success/){: target="_blank"} on this site.
+Feel free to contact me via the [contact page](/contact/){: target="_blank"} on this site.
