@@ -9,7 +9,7 @@ I have worked in the games industry as an Engineer and a Technical Artist with a
 
 I like finding efficient ways to optimize work loads, reduce development time and solve the daily problems encountered on game development projects.
 
-I am also very passionate about real-time 3d graphics programming and have a strong interest in DevOps, AI and Machine Learning.
+I am also very passionate about real-time 3d graphics and have a strong interest in DevOps, AI and Machine Learning.
 
 &nbsp;
 
