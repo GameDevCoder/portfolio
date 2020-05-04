@@ -7,11 +7,15 @@ twitter:
 
 I have worked in the games industry as an Engineer and a Technical Artist with a focus on pipeline tools and graphics programming.
 
-I like finding efficient solutions to solve the complex problems encountered on game development projects.
+I like finding efficient ways to optimize work loads, reduce development time and solve the daily problems encountered on game development projects.
 
 I also have a strong interest in DevOps, AI and Machine Learning.
 
-I studied game development programming at DigiPen in Vancouver, British Columbia for a year. Then I decided to move overseas to pursue a career as a game developer, continue my studies and gain international experience.
+&nbsp;
+
+I studied game development programming at [DigiPen in Vancouver, British Columbia](https://www.digipen.edu/about/our-history){: target="_blank"} for a year. Then I decided to move overseas to pursue a career as a game developer, continue my studies and gain international experience.
+
+&nbsp;
 
 I have worked on several game projects in the past fifteen years. Presently I am working as a Technical Artist on the Playstation 4 title "[Project Awakening : Arise" at Cygames.](/clients/cygames/){: target="_blank"}
 
