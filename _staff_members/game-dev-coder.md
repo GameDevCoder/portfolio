@@ -13,7 +13,7 @@ I also have a strong interest in DevOps, AI and Machine Learning.
 
 &nbsp;
 
-I studied game development programming at [DigiPen in Vancouver, British Columbia](https://www.digipen.edu/about/our-history){: target="_blank"} for a year. Then, I decided to move overseas to pursue a career as a game developer, continue my studies and gain international experience.
+I studied game development programming at [DigiPen in Vancouver, British Columbia](https://www.digipen.edu/about/our-history){: target="_blank"} for a year. Then, I decided to move overseas to pursue a career as a game developer, continue my studies in game development and gain international experience abroad.
 
 &nbsp;
 
