@@ -1,6 +1,8 @@
 ---
 name: Climax Entertainment
-subtitle: Steal Princess <br/> 2007 / 02 ~ 2007 / 09
+subtitle: Steal Princess
+start_date: 2007-02-01
+end_date: 2007-09-28
 external_url: 'https://en.wikipedia.org/wiki/Climax_Entertainment'
 image_path: /images/clients/climax_entertainment/steal_princess/steal_princess_box_na.jpg
 ---
@@ -13,7 +15,7 @@ image_path: /images/clients/climax_entertainment/steal_princess/steal_princess_b
 
 From February 1st, 2007 to September 28th, 2007 I worked as a **Programmer** at Climax Entertainment in Shin-Okubo, Tokyo.
 
-I was hired as a "Temp" from an application and game development staffing company.
+I was contracted out to Climax from a game development staffing company.
 
 &nbsp;
 

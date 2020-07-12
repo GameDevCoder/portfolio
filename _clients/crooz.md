@@ -1,6 +1,8 @@
 ---
 name: Crooz
-subtitle: 'Final Fantasy - Grandmasters, ACR Drift <br/> 2014 / 1 ~ 2017 / 7'
+subtitle: 'Final Fantasy Grandmasters, ACR Drift'
+start_date: 2014-01-01
+end_date: 2016-10-31
 external_url: 'https://crooz.co.jp/'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
@@ -13,7 +15,7 @@ image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 
 From January 2014 up to October 2016, I worked at [Crooz](https://crooz.co.jp/) in Roppongi, Tokyo on various game projects. One of them was Final Fantasy Grandmasters.
 
-From November 2016, the game project and the team were sold off to another company which underwent a name change and was rebranded as Mighty Games. I continued providing updates and maintenance on the project until July 2017.<br>&nbsp;
+From November 2016, the game project and the team were sold off to another company. I continued providing updates and maintenance on the project until July 2017.<br>&nbsp;
 
 # Unity Mobile Game Project
 
@@ -27,7 +29,7 @@ From June 2014 up to October 2016,&nbsp; I worked as **Lead Technical Artist** o
 
 The mobile game was developed using Unity4 and later, Unity 5.
 
-The game and it's development were discussed in a presentation at &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Unite 2016 Tokyo](https://www.youtube.com/watch?v=h5bqn6BpX-I){: target="_blank"}.
+The game and it's development were discussed in a presentation at [Unite 2016 Tokyo](https://www.youtube.com/watch?v=h5bqn6BpX-I){: target="_blank"}.
 
 ### Graphics Development
 

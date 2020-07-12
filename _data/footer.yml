@@ -14,10 +14,6 @@
       link: 'https://twitter.com/GameDevCoder1'
       social_icon: Twitter
       new_window: true
-    - name: LinkedIn
-      link:
-      social_icon: LinkedIn
-      new_window: true
     - name: Github
       link: 'https://github.com/GameDevCoder'
       social_icon: Github

@@ -1,6 +1,8 @@
 ---
 name: From Software
-subtitle: Demon's Souls <br/> 2007 / 10 ~ 2008 / 02
+subtitle: Demon's Souls
+start_date: 2007-10-01
+end_date: 2008-02-28
 external_url: 'https://www.fromsoftware.jp/ww/'
 image_path: /images/clients/from_software/demons_souls/demons_souls_box_bg.png
 ---
@@ -13,7 +15,7 @@ image_path: /images/clients/from_software/demons_souls/demons_souls_box_bg.png
 
 From October 1st 2007 to February 28th 2008 I worked as an **Art Pipeline Tools Programmer** at From Software in Sasazuka, Tokyo.
 
-I was hired as a "Temp" from an application and game development staffing company.
+I was contracted out to FromSoftware from a game development staffing company.
 
 &nbsp;
 
@@ -25,11 +27,7 @@ I was hired as a "Temp" from an application and game development staffing compan
 
 ### Overview
 
-I worked on art pipeline tools programming for the Playstation 3 title &nbsp; &nbsp; &nbsp;&nbsp; "Demon's Souls".
-
-I mainly worked on extending the capabilities of a digital asset management system called AlienBrain.
-
-I also worked on improving the Art Pipeline and suggested tools and middleware for the development of the title.
+I worked on tools programming and art pipeline improvement for the Playstation 3 title "Demon's Souls".
 
 &nbsp;
 
@@ -39,7 +37,7 @@ I also worked on improving the Art Pipeline and suggested tools and middleware f
 
 AlienBrain is a management and version control system for 2D and 3D art assets. The team working on the Demon's Souls project had many custom created assets they wanted to add to AlienBrain.
 
-I worked on expanding the kinds of assets AlienBrain manages by creating DLLs and added support for custom material and shader files.
+I created plugins to extend the kinds of assets AlienBrain manages and added support for custom in-house material and shader files.
 
 &nbsp;
 
@@ -47,6 +45,6 @@ I worked on expanding the kinds of assets AlienBrain manages by creating DLLs an
 
 One of the biggest issues on the art creation side was that it took too long for the artists to check the look of the 3d model assets "in-game" on the Playstation 3.
 
-The process of turning 3d art assets into game assets and loading it up on the game console was tedious work.
+The process of turning 3d art assets into game assets and loading it up on the game console took a very long time.
 
-After doing information research on several tools and middleware, I suggested using tools from [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo){: target="_blank"}. This provided the art team with a way to preview their 3d art assets on the Playstation 3 much more quickly.
+After doing information research on several tools and middleware, I suggested using tools from [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo){: target="_blank"}. This provided the art team with a way to preview changes made to their 3D art assets on the Playstation 3 much more quickly.

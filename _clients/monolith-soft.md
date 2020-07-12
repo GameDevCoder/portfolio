@@ -1,6 +1,8 @@
 ---
 name: Monolith Soft
-subtitle: Disaster - Day of Crisis <br/> 2006 / 2 ~ 2007 / 1
+subtitle: Disaster - Day of Crisis
+start_date: 2006-02-01
+end_date: 2007-01-28
 external_url: 'https://www.monolithsoft.co.jp/'
 image_path: >-
   /images/clients/monolith_soft/disaster_day_of_crisis/disaster_day_of_crisis_box.jpg
@@ -14,7 +16,7 @@ image_path: >-
 
 From February 1st 2006 to January 28th 2007 I worked as a **Physics Programmer** at [Monolith Software](https://www.monolithsoft.co.jp/){: target="_blank"} in Meguro, Tokyo.
 
-I was hired as a "Temp" from an application and game development staffing company.
+I was contracted out to Monolith Soft from a game development staffing company.
 
 &nbsp;
 

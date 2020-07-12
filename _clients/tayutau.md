@@ -1,6 +1,8 @@
 ---
 name: Tayutau
-subtitle: Final Fantasy Agito <br/> 2013 / 10 ~ 2013 / 11
+subtitle: Final Fantasy Agito
+start_date: 2013-10-01
+end_date: 2013-11-28
 external_url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Agito'
 image_path: /images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Logo-Box.png
 ---
@@ -13,9 +15,7 @@ image_path: /images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Logo
 
 From October 1st 2013 to November 1st 2013, I worked as a **Graphics Programmer** at Tayutau in Shinjuku, Tokyo.
 
-I was hired as a "Temp" from an application and game development staffing company.
-
-The company has since changed its name, rebranding itself as "[Amata](https://amata.co.jp/en/works/game-development){: target="_blank"}".
+I was contracted out to Tayutau from a game development staffing company.
 
 &nbsp;
 
@@ -27,13 +27,11 @@ The company has since changed its name, rebranding itself as "[Amata](https://am
 
 ### Overview
 
-The project was developed with Unity for both iPhone and Android smartphones.
+The project was developed with Unity for iPhone and Android smartphones.
 
-The game featured up close screens of 2D character faces which were dynamically animated with a middlware plugin from Silicon Studio called &nbsp; &nbsp; [Motion Portrait](https://www.siliconstudio.co.jp/en/products-service/motion-portrait/){: target="_blank"}. This gave the 2D character faces a pseudo 3D like appearance. &nbsp; &nbsp;
+The game featured close-up shots of the character's faces, dynamically animated with a middlware plugin from Silicon Studio called [Motion Portrait](https://www.siliconstudio.co.jp/en/products-service/motion-portrait/){: target="_blank"}.
 
-![](/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_1.gif){: width="500" height="250"}
-
-![](/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_3.gif){: width="500" height="250"}
+![](/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_1.gif){: width="500" height="250"} ![](/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_3.gif){: width="500" height="250"}
 
 &nbsp;
 

@@ -8,13 +8,15 @@ subtitle: Some of the projects I have worked on
 	<div class="container">
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/" class="btn"><strong>&#9998;</strong> Manage Clients</a></p>
 		<ul class="image-grid">
-			{% for client in site.clients %}
+			{% assign client_list = (site.clients | sort: 'start_date') | reverse %}
+			{% for client in client_list %}
 				<li>
 					<a href="{{ site.baseurl }}{{ client.url }}">
 						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
 						<div class="details">
 							<div class="name">{{ client.name }}</div>
 							<div class="position">{{ client.subtitle }}</div>
+							<div class="time">{{ client.start_date }} ~ {{ client.end_date }}</div>
 						</div>
 					</a>
 				</li>
