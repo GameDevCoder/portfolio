@@ -1,6 +1,6 @@
 title: Urban Template
-url: "https://gamedevcoder.github.io/portfolio"
-baseurl: 
+url:
+baseurl: https://gamedevcoder.github.io/portfolio
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
