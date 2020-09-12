@@ -1,5 +1,5 @@
 ---
-name: Cygames
+name: Cygameszz
 subtitle: Project Awakening
 start_date: 2017-09-01
 end_date: Present
