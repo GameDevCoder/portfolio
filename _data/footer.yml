@@ -10,6 +10,10 @@
       link: /contact/
 - title: Social
   links:
+  - name: LinkedIn
+      link: 'https://linkedin.com/in/bc-gamedev-coder'
+      social_icon: LinkedIn
+      new_window: true
     - name: Twitter
       link: 'https://twitter.com/GameDevCoder1'
       social_icon: Twitter
