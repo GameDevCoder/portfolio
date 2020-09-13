@@ -4,7 +4,7 @@ subtitle: Steal Princess
 start_date: 2007-02-01
 end_date: 2007-09-28
 external_url: 'https://en.wikipedia.org/wiki/Climax_Entertainment'
-image_path: portfolio/images/clients/climax_entertainment/steal_princess/steal_princess_box_na.jpg
+image_path: /images/clients/climax_entertainment/steal_princess/steal_princess_box_na.jpg
 ---
 
 ![](/images/clients/climax_entertainment/climax_logo_white.png){: width="1200" height="554"}

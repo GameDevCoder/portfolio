@@ -4,7 +4,7 @@ subtitle: 'Final Fantasy Grandmasters, ACR Drift'
 start_date: 2014-01-01
 end_date: 2016-10-31
 external_url: 'https://crooz.co.jp/'
-image_path: portfolio/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
+image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
 
 ## ![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
