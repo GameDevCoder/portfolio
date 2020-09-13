@@ -7,7 +7,7 @@ external_url: 'https://en.wikipedia.org/wiki/Last_Rebellion'
 image_path: /images/clients/hit_maker/last_rebellion/last_rebellion_box_art_.jpg
 ---
 
-![](portfolio/images/clients/hit_maker/hitmaker_logo_large.jpg){: width="882" height="146"}
+![](/images/clients/hit_maker/hitmaker_logo_large.jpg){: width="882" height="146"}
 
 # Hit Maker
 
@@ -23,7 +23,7 @@ I was contracted out to Hit Maker from a game development staffing company.
 
 ### Last Rebellion
 
-![](portfolio/images/clients/hit_maker/last_rebellion/last_rebellion_chara_logo_wide.jpg){: width="1280" height="680"}
+![](/images/clients/hit_maker/last_rebellion/last_rebellion_chara_logo_wide.jpg){: width="1280" height="680"}
 
 ### Overview
 

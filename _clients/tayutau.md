@@ -7,7 +7,7 @@ external_url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Agito'
 image_path: /images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Logo-Box.png
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](portfolio/images/clients/tayutau/tayutau_logo.jpg){: width="235" height="235"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](/images/clients/tayutau/tayutau_logo.jpg){: width="235" height="235"}
 
 # Tayutau
 
@@ -23,7 +23,7 @@ I was contracted out to Tayutau from a game development staffing company.
 
 ### Final Fantasy Agito
 
-![](portfolio/images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Wide.jpg){: width="1000" height="536"}
+![](/images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Wide.jpg){: width="1000" height="536"}
 
 ### Overview
 
@@ -31,7 +31,7 @@ The project was developed with Unity for iPhone and Android smartphones.
 
 The game featured close-up shots of the character's faces, dynamically animated with a middlware plugin from Silicon Studio called [Motion Portrait](https://www.siliconstudio.co.jp/en/products-service/motion-portrait/){: target="_blank"}.
 
-![](portfolio/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_1.gif){: width="500" height="250"} ![](portfolio/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_3.gif){: width="500" height="250"}
+![](/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_1.gif){: width="500" height="250"} ![](/images/clients/tayutau/final_fantasy_agito/FFA_Motion_Portrait_3.gif){: width="500" height="250"}
 
 &nbsp;
 

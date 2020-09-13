@@ -7,7 +7,7 @@ external_url: 'https://www.cygames.co.jp/en/'
 image_path: /images/clients/cygames/project-awakening/cygames_project_awakening_thumb.png
 ---
 
-# ![](portfolio/images/clients/cygames/cyagames-logo-2.png){: width="800" height="414"}
+# ![](/images/clients/cygames/cyagames-logo-2.png){: width="800" height="414"}
 
 # Cygames
 
@@ -21,7 +21,7 @@ From the fall of 2017 up to present, I am working as a **Technical Artist** at [
 
 ### [Project Awakening - Arise](https://projectawakening.com/en/)
 
-## ![](portfolio/images/clients/cygames/project-awakening/cygames_project_awakening.png){: width="1200" height="630"}
+## ![](/images/clients/cygames/project-awakening/cygames_project_awakening.png){: width="1200" height="630"}
 
 ### Overview
 
@@ -83,7 +83,7 @@ I helped with materials and shading development in Unreal Engine 4. Specifically
 
 ### [Anubis Zone of the Enders M∀RS](https://www.konami.com/games/zoe_mars/as/en/)
 
-![](portfolio/images/clients/cygames/zone-of-the-enders-anubis/anubis_zone_of_the_enders_large.jpg){: width="616" height="353"}
+![](/images/clients/cygames/zone-of-the-enders-anubis/anubis_zone_of_the_enders_large.jpg){: width="616" height="353"}
 
 ### Overview
 
@@ -105,7 +105,7 @@ I also helped enter localized game text for the French, German, Italian and Span
 
 ## Internal Development
 
-![](portfolio/images/clients/cygames/cygames_logo_technical.jpg){: width="600" height="336"}
+![](/images/clients/cygames/cygames_logo_technical.jpg){: width="600" height="336"}
 
 ## Internal Development
 
