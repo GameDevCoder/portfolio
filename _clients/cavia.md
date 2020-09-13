@@ -7,7 +7,7 @@ external_url: 'https://en.wikipedia.org/wiki/Cavia_(company)'
 image_path: /images/clients/cavia/nier_gestalt/neir_gestalt_large.jpg
 ---
 
-![](/images/clients/cavia/cavia_logo.png){: width="1200" height="429"}
+![](/portfolio/images/clients/cavia/cavia_logo.png){: width="1200" height="429"}
 
 # Cavia
 
@@ -23,7 +23,7 @@ I was contracted out to Cavia from a game development staffing company.
 
 ### Nier Gestalt
 
-![](/images/clients/cavia/nier_gestalt/nier_gestalt_wide.jpg){: width="1572" height="852"}
+![](/portfolio/images/clients/cavia/nier_gestalt/nier_gestalt_wide.jpg){: width="1572" height="852"}
 
 ### Overview
 
@@ -35,7 +35,7 @@ I worked on some procedural particle effects for the Playstation 3 title "Nier G
 
 #### Procedural Effects
 
-![](/images/clients/cavia/nier_gestalt/nier_gestalt_wolf_attack_effect.png){: width="1023" height="566"}
+![](/portfolio/images/clients/cavia/nier_gestalt/nier_gestalt_wolf_attack_effect.png){: width="1023" height="566"}
 
 Procedural effects are created dynamically with mathematics and geometry at runtime. I worked on creating trail effects for the attack motion of a wolf. It was created using mathematical splines and cylindrical tubes. The size and length as well as the color and the alpha of the trail effect would change over time in relation to the wolf's position, speed and direction in the game.
 

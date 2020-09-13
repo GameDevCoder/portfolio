@@ -7,7 +7,7 @@ external_url: 'https://en.wikipedia.org/wiki/Climax_Entertainment'
 image_path: /images/clients/climax_entertainment/steal_princess/steal_princess_box_na.jpg
 ---
 
-![](/images/clients/climax_entertainment/climax_logo_white.png){: width="1200" height="554"}
+![](/portfolio/images/clients/climax_entertainment/climax_logo_white.png){: width="1200" height="554"}
 
 # [Climax Entertainment](https://en.wikipedia.org/wiki/Climax_Studios){: target="_blank"}
 
@@ -23,7 +23,7 @@ I was contracted out to Climax from a game development staffing company.
 
 ### [Steal Princess](https://en.wikipedia.org/wiki/Steal_Princess){: target="_blank"}
 
-![](/images/clients/climax_entertainment/steal_princess/steal_princess_box_na.jpg){: width="1500" height="1500"}
+![](/portfolio/images/clients/climax_entertainment/steal_princess/steal_princess_box_na.jpg){: width="1500" height="1500"}
 
 ### Overview
 

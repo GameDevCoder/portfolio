@@ -7,7 +7,7 @@ external_url: 'https://crooz.co.jp/'
 image_path: /images/clients/crooz/ffgm/Final-Fantasy-Grandmasters_thumb.jpg
 ---
 
-## ![](/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
+## ![](/portfolio/images/clients/crooz/crooz-logo-large.jpg){: width="1800" height="971"}
 
 # CROOZ
 
@@ -21,7 +21,7 @@ From November 2016, the game project and the team were sold off to another compa
 
 ## [Final Fantasy Grandmasters](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
 
-## [![](/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
+## [![](/portfolio/images/clients/crooz/ffgm/Final-Fantasy-Grandmasters.jpg){: width="983" height="793"}](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Grandmasters)
 
 ### Overview
 
@@ -61,7 +61,7 @@ I developed various shaders for the game's characters including a skin tone shad
 
 &lt;a screenshot showing the character skin shader with various color tones&gt;
 
-![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_chara_skin.jpg){: width="1944" height="1296"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_chara_skin.jpg){: width="1944" height="1296"}
 
 #### Crystal Shader
 
@@ -69,7 +69,7 @@ I worked together with the Art Director to create a shiny crystal effect for a b
 
 &lt;a screen shot of the crystal shader and the textures used&gt;
 
-![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_crystal.jpg){: width="1944" height="1296"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/ffgm_shader_crystal.jpg){: width="1944" height="1296"}
 
 #### Post Effects
 
@@ -92,13 +92,13 @@ During my time on the project I created post effects optimized for mobile which 
 
 I created a tool which allowed artists to easily create prefabs from FBX model assets in Unity. The artists could specify the prefab's name, file path and material shader. The tool was opened by right clicking on an FBX asset.
 
-![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Prefab_Creaton_Tool.png){: width="1104" height="190"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/Unity_Prefab_Creaton_Tool.png){: width="1104" height="190"}
 
 ##### Animation Controller Creator Tool
 
 I also created a tool which allowed the artists to quickly create and setup Unity Animation Controllers from an animated FBX resource. The tool supported rapid creation and editing of Animation Layers, Animation States and Animation Parameters. The tool was opened by right clicking on an FBX animation asset in Unity.
 
-![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Animation_Controller_Creator_Tool.png){: width="855" height="419"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/Unity_Animation_Controller_Creator_Tool.png){: width="855" height="419"}
 
 ##### &nbsp;
 
@@ -112,7 +112,7 @@ The tool could also be used to mass update existing Unity prefabs. If a newer ve
 
 \*\*Although not shown in this version, a preview pane was added to the right hand side of the batching tool. This allowed artists to quickly preview models with shaders and post effects before creating the prefab.
 
-![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_prefab_creator_batch_tool_2.jpg){: width="1735" height="981"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/ffgm_prefab_creator_batch_tool_2.jpg){: width="1735" height="981"}
 
 &nbsp;
 
@@ -128,7 +128,7 @@ The Controller's Animation Layers and Animation States were selectable and each 
 
 The tool also featured standard media controls, scrubbing, time playback info and an animation loop option.
 
-![](/images/clients/crooz/unite-2016-tokyo-2/Unity_Animator_Controller_Playback_Tool.png){: width="647" height="76"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/Unity_Animator_Controller_Playback_Tool.png){: width="647" height="76"}
 
 #### &nbsp;
 
@@ -142,13 +142,13 @@ Magic Effect preview support included playback of the effect's animation.&nbsp;
 
 Character Model preview support included ability to change character type, character parts, gender, armor and weapons. Each model could be selectively disabled from rendering. Playback of animation was also supported.
 
-![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_chara_viewer_tool_2.jpg){: width="1654" height="952"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/ffgm_chara_viewer_tool_2.jpg){: width="1654" height="952"}
 
 ##### Enemy Previewer
 
 Enemy Model preview support included playback of animation layers and states as well as effects that were timed with the animations.
 
-![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_enemy_viewer_tool_2.jpg){: width="1645" height="922"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/ffgm_enemy_viewer_tool_2.jpg){: width="1645" height="922"}
 
 ##### Map Previewer
 
@@ -156,7 +156,7 @@ Map Model preview support included the ability to change the map type.
 
 \*\*Although not shown in this version, a battle simulation mode allowed artists to preview the maps with characters and enemies setup at a battle location engaged in a mock battle situation.
 
-![](/images/clients/crooz/unite-2016-tokyo-2/ffgm_map_viewer_tool_2.jpg){: width="1774" height="1014"}
+![](/portfolio/images/clients/crooz/unite-2016-tokyo-2/ffgm_map_viewer_tool_2.jpg){: width="1774" height="1014"}
 
 ##### &nbsp;
 
@@ -166,7 +166,7 @@ Map Model preview support included the ability to change the map type.
 
 ### ACR Drift
 
-![](/images/clients/crooz/acr-drift/acr-drift-splash.jpg){: width="1900" height="1267"}
+![](/portfolio/images/clients/crooz/acr-drift/acr-drift-splash.jpg){: width="1900" height="1267"}
 
 ### Overview
 

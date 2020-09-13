@@ -8,7 +8,7 @@ image_path: >-
   /images/clients/monolith_soft/disaster_day_of_crisis/disaster_day_of_crisis_box.jpg
 ---
 
-![](/images/clients/monolith_soft/monolithsoft-1280x720.jpg){: width="1280" height="720"}
+![](/portfolio/images/clients/monolith_soft/monolithsoft-1280x720.jpg){: width="1280" height="720"}
 
 # Monolith Soft
 
@@ -24,7 +24,7 @@ I was contracted out to Monolith Soft from a game development staffing company.
 
 ### [Disaster: Day of Crisis](https://www.nintendo.co.jp/wii/rdzj/index.html){: target="_blank"}
 
-[![](/images/clients/monolith_soft/disaster_day_of_crisis/distaster_day_of_crisis_wide.jpg){: width="1600" height="800"}](https://www.nintendo.co.jp/wii/rdzj/index.html){: target="_blank"}
+[![](/portfolio/images/clients/monolith_soft/disaster_day_of_crisis/distaster_day_of_crisis_wide.jpg){: width="1600" height="800"}](https://www.nintendo.co.jp/wii/rdzj/index.html){: target="_blank"}
 
 ### Overview
 
