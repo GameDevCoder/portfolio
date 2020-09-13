@@ -4,7 +4,7 @@ subtitle: Nier Gestalt
 start_date: 2009-07-01
 end_date: 2009-08-28
 external_url: 'https://en.wikipedia.org/wiki/Cavia_(company)'
-image_path: /images/clients/cavia/nier_gestalt/neir_gestalt_large.jpg
+image_path: portfolio/images/clients/cavia/nier_gestalt/neir_gestalt_large.jpg
 ---
 
 ![](/images/clients/cavia/cavia_logo.png){: width="1200" height="429"}

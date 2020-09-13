@@ -4,7 +4,7 @@ subtitle: Demon's Souls
 start_date: 2007-10-01
 end_date: 2008-02-28
 external_url: 'https://www.fromsoftware.jp/ww/'
-image_path: /images/clients/from_software/demons_souls/demons_souls_box_bg.png
+image_path: portfolio/images/clients/from_software/demons_souls/demons_souls_box_bg.png
 ---
 
 ![](/images/clients/from_software/from_software_logo.png){: width="831" height="323"}

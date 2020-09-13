@@ -4,7 +4,7 @@ subtitle: Project Awakening
 start_date: 2017-09-01
 end_date: Present
 external_url: 'https://www.cygames.co.jp/en/'
-image_path: /images/clients/cygames/project-awakening/cygames_project_awakening_thumb.png
+image_path: portfolio/images/clients/cygames/project-awakening/cygames_project_awakening_thumb.png
 ---
 
 # ![](/images/clients/cygames/cyagames-logo-2.png){: width="800" height="414"}

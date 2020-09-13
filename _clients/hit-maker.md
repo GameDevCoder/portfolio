@@ -4,7 +4,7 @@ subtitle: Last Rebellion
 start_date: 2008-04-01
 end_date: 2009-06-28
 external_url: 'https://en.wikipedia.org/wiki/Last_Rebellion'
-image_path: /images/clients/hit_maker/last_rebellion/last_rebellion_box_art_.jpg
+image_path: portfolio/images/clients/hit_maker/last_rebellion/last_rebellion_box_art_.jpg
 ---
 
 ![](/images/clients/hit_maker/hitmaker_logo_large.jpg){: width="882" height="146"}

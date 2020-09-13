@@ -4,7 +4,7 @@ subtitle: Final Fantasy Agito
 start_date: 2013-10-01
 end_date: 2013-11-28
 external_url: 'https://en.wikipedia.org/wiki/Final_Fantasy_Agito'
-image_path: /images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Logo-Box.png
+image_path: portfolio/images/clients/tayutau/final_fantasy_agito/Final-Fantasy-Agito-Logo-Box.png
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](/images/clients/tayutau/tayutau_logo.jpg){: width="235" height="235"}
