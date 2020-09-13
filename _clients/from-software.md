@@ -7,7 +7,7 @@ external_url: 'https://www.fromsoftware.jp/ww/'
 image_path: /images/clients/from_software/demons_souls/demons_souls_box_bg.png
 ---
 
-![](/images/clients/from_software/from_software_logo.png){: width="831" height="323"}
+![](portfolio/images/clients/from_software/from_software_logo.png){: width="831" height="323"}
 
 # [From Software](https://www.fromsoftware.jp/ww/){: target="_blank"}
 
@@ -23,7 +23,7 @@ I was contracted out to FromSoftware from a game development staffing company.
 
 ### [Demon's Souls](https://www.fromsoftware.jp/ww/detail.html?csm=07){: target="_blank"}
 
-![](/images/clients/from_software/demons_souls/demons-souls_wide.jpg){: width="1280" height="720"}
+![](portfolio/images/clients/from_software/demons_souls/demons-souls_wide.jpg){: width="1280" height="720"}
 
 ### Overview
 
