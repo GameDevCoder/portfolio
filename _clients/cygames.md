@@ -7,7 +7,7 @@ external_url: 'https://www.cygames.co.jp/en/'
 image_path: /images/clients/cygames/project-awakening/cygames_project_awakening_thumb.png
 ---
 
-# ![](/images/clients/cygames/cyagames-logo-2.png){: width="800" height="414"}
+# ![](/portfolio/images/clients/cygames/cyagames-logo-2.png){: width="800" height="414"}
 
 # Cygames
 
