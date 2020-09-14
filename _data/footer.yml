@@ -11,7 +11,7 @@
 - title: Social
   links:
   - name: LinkedIn
-      link: 'https://linkedin.com/in/bc-gamedev-coder'
+      link:
       social_icon: LinkedIn
       new_window: true
     - name: Twitter
