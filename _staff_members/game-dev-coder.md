@@ -19,9 +19,9 @@ Afterwards, I decided to move overseas to pursue a career as a game developer, c
 
 &nbsp;
 
-Presently I am working as a Technical Artist on the Playstation 4 title "[Project Awakening : Arise" at Cygames.](/clients/cygames/){: target="_blank"}
+Presently I am working as a Technical Artist on the Playstation 4 title "[Project Awakening : Arise" at Cygames.](/portfolio/clients/cygames/){: target="_blank"}
 
-I have also previously worked on console and mobile game titles including [Final Fantasy Grandmasters](/clients/crooz/){: target="_blank"}, [Final Fantasy Agito](/clients/tayutau/){: target="_blank"} and [Demon's Souls](/clients/from-software/){: target="_blank"}.
+I have also previously worked on console and mobile game titles including [Final Fantasy Grandmasters](/portfolio/clients/crooz/){: target="_blank"}, [Final Fantasy Agito](/portfolio/clients/tayutau/){: target="_blank"} and [Demon's Souls](/portfolio/clients/from-software/){: target="_blank"}.
 
 &nbsp;
 
@@ -29,4 +29,4 @@ I have also previously worked on console and mobile game titles including [Final
 
 Want to get in touch ?
 
-Feel free to contact me via the [contact page](/contact/){: target="_blank"} on this site.
+Feel free to contact me via the [contact page](/portfolio/contact/){: target="_blank"} on this site.
