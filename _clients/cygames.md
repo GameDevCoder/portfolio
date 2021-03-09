@@ -2,7 +2,7 @@
 name: Cygames
 subtitle: Project Awakening
 start_date: 2017-09-01
-end_date: Present
+end_date: 2021-02-28
 external_url: 'https://www.cygames.co.jp/en/'
 image_path: /images/clients/cygames/project-awakening/cygames_project_awakening_thumb.png
 ---
@@ -13,7 +13,7 @@ image_path: /images/clients/cygames/project-awakening/cygames_project_awakening_
 
 ## Employment Overview
 
-From the fall of 2017 up to present, I am working as a **Technical Artist** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
+From September 2017 up February 2021, I worked as a **Technical Artist** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
 
 &nbsp;
 
@@ -25,7 +25,7 @@ From the fall of 2017 up to present, I am working as a **Technical Artist** at [
 
 ### Overview
 
-From the Fall of 2018 up to present, I have been working on art pipeline tools for the Playstation 4 title "Project Awakening - Arise".
+I was working on art pipeline tools for the Playstation 4 title "Project Awakening - Arise".
 
 The project was initially built with Unreal Engine. Work is underway to switch over to the custom in-house game engine called "Cyllista".
 
