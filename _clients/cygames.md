@@ -13,7 +13,7 @@ image_path: /images/clients/cygames/project-awakening/cygames_project_awakening_
 
 ## Employment Overview
 
-From September 2017 up February 2021, I worked as a **Technical Artist** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
+From September 2017 to February 2021, I worked as a **Technical Artist** at [Cygames](https://www.cygames.co.jp/en/) in Shibuya, Tokyo.
 
 &nbsp;
 
