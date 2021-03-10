@@ -25,7 +25,7 @@ From September 2017 to February 2021, I worked as a **Technical Artist** at [Cyg
 
 ### Overview
 
-I was working on art pipeline tools for the Playstation 4 title "Project Awakening - Arise".
+I worked on art pipeline tools for the Playstation 4 title "Project Awakening - Arise".
 
 The project was initially built with Unreal Engine. Work is underway to switch over to the custom in-house game engine called "Cyllista".
 
